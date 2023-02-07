@@ -1,6 +1,6 @@
 # Yiju's Professional Portfolio
 
-*Note: This comprehensive portfolio provides an in-depth look at my professional background and achievements. For a concise overview of my qualifications, please refer to my standard resume, accessible via the provided [link](resume).*
+*Note: This comprehensive portfolio provides an in-depth look at my professional background and achievements. For a concise overview of my qualifications, please refer to my [standard resume](resume), accessible via the provided [link](resume).*
 
 [Full Name]
 [Address]
