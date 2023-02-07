@@ -58,13 +58,3 @@ CloudGame, Beijing, China
 
 
 
-
-
-
-
-## Projects
-
-
-
-## Certifications
-
