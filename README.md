@@ -1,4 +1,4 @@
-# Yiju's Professional Portfolio
+# Yiju Li
 
 *Note: This portfolio offers a comprehensive examination of my professional background and accomplishments. For a succinct overview of my software engineering qualifications, please refer to my [standard software engineering resume](resume_software). For a clear summary of my hardware engineering qualifications, please refer to my [standard hardware engineering resume](resume_hardware).*
 
