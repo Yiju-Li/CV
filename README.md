@@ -17,6 +17,7 @@ Sep 2020 - current
 
 ## Software Skills
 - Programming languages: Java, Python, C++(GLSL focused), C, JavaScript, HTML(WXML), CSS
+- Computer Science: Advanced Data Structures, Advanced Algorithms, Reinforcement Algorithms, Neural Network
 - Database technologies: MySQL, MongoDB
 - Front-End frameworks: React.js
 - Back-End frameworks: Spring, Django, Express.js
@@ -27,7 +28,9 @@ Sep 2020 - current
 - Special: DevOps
 
 ## Hardware Skills
-
+- Computer Engineer: Digital Electronics and Circuit, Computer Architecture Design(ISA)
+- HDL: SystemVerilog, VHDL
+- EDA tools: Modelsim(Questa), Quartus
 
 ## Professional Experience
 
