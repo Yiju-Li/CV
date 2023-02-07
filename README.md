@@ -16,8 +16,8 @@ Sep 2020 - current
 
 
 ## Software Skills
-- Programming languages: Java, Python, C++(GLSL focused), C, JavaScript, HTML(WXML), CSS
-- Computer Science: Advanced Data Structures, Advanced Algorithms, Reinforcement Algorithms, Neural Network
+- Programming languages: Java, Python, C++(GLSL), C, JavaScript, HTML(WXML), CSS
+- Focused Topics: Advanced Data Structures, Advanced Algorithms, Reinforcement Algorithms, Neural Network, CV
 - Database technologies: MySQL, MongoDB
 - Front-End frameworks: React.js
 - Back-End frameworks: Spring, Django, Express.js
