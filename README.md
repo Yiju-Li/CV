@@ -4,7 +4,7 @@
 
 As a student pursuing a dual degree in Computer Engineering and Applied Mathematics at the University of California, San Diego, I have gained a thorough understanding of software and hardware development. My education has been enriched through internships at companies such as Cloudgame and Ubtech, where I contributed as a software engineer intern, focusing on front-end development projects using React and CSS.
 
-During my internship at Qingmu Life Tech, I had the opportunity to contribute to the development of apps on the Wechat platform, utilizing WXHL and JavaScript. My responsibilities included creating and implementing new features, ensuring app stability and performance, and working closely with the team to meet the business requirements.Additionally, I was involved in developing dynamic and user-friendly apps for the Android platform, utilizing my Java and Android SDK skills. This experience provided me with a solid foundation in app development, from design to deployment, and a deep understanding of the development process and the importance of collaboration and communication in software development.
+During my internship at Shengmu Life Tech, I had the opportunity to contribute to the development of apps on the Wechat platform, utilizing WXHL and JavaScript. My responsibilities included creating and implementing new features, ensuring app stability and performance, and working closely with the team to meet the business requirements.Additionally, I was involved in developing dynamic and user-friendly apps for the Android platform, utilizing my Java and Android SDK skills. This experience provided me with a solid foundation in app development, from design to deployment, and a deep understanding of the development process and the importance of collaboration and communication in software development.
 
 With a professional attitude and commitment to delivering high-quality work, I am constantly striving to improve and expand my skillset. My educational background and internship experience make me a strong candidate for both software and hardware engineering positions. I am eager to bring my skills and knowledge to a new role, continue growing as a professional, and make a valuable contribution to the company.
 
@@ -34,39 +34,37 @@ Sep 2020 - current
 
 ## Professional Experience
 
-### Software Engineer
-XYZ Inc, San Francisco, CA  
-Jan 2018 - Present
+### Software Engineer Intern
+Shengmu Life, Chengdu, China
+2022 Summer, 10 weeks
+- Developed Wechat apps with WXHL and JavaScript, including feature creation and app stability/performance assurance.
+- Collaborated on dynamic, user-friendly Android apps using Java and Android SDK, meeting business requirements.
 
-- Designed and developed RESTful APIs using Java and Spring framework.
-- Implemented a secure authentication and authorization system using JSON Web Tokens (JWT).
-- Built and maintained scalable and highly available systems using Amazon Web Services (AWS) and Docker.
-- Improved application performance by optimizing database queries and caching.
-- Collaborated with cross-functional teams to deliver high-quality software on time and within budget.
+### Software Engineer Intern
+UBTech, Shenzhen, China
+2021 Summer, 8 weeks
+- Developed a web-application, utilizing JavaScript and React to enhance the product's functionality and user experience.
+- Modified components in the programming interface to make it more approachable and accessible, particularly for young-aged children.
+- Improved the logistics of the programming process to simplify the user experience, making it easier for individuals of all ages to understand and operate the system.
 
-### Junior Software Engineer
-ABC Ltd, San Jose, CA  
-Jan 2016 - Dec 2017
+### Quality Assurance (QA) Engineer Intern
+CloudGame, Beijing, China
+2020 Summer, 10 weeks
+- Designed and executed test plans, identified and reported software bugs, and worked closely with the development team to ensure a seamless user experience for the end-users.
+- Performed pressure tests to evaluate the stability and reliability of the gaming products under heavy usage conditions.
 
-- Contributed to the development of a content management system using Python and Django framework.
-- Developed and maintained web pages using HTML, CSS and JavaScript.
-- Worked with a team to deliver several projects using Agile methodologies.
-- Assisted in testing and debugging applications.
-- Improved the application's user interface and overall user experience.
+
+
+
+
+
+
+
 
 
 ## Projects
 
-### Personal Budget Tracker
-A web application that helps users track their personal expenses and income.
-- Technologies used: Python, Flask, SQLite, HTML, CSS
-- Github repository: https://github.com/johndoe/personal-budget-tracker
 
-### E-commerce Website
-A website that allows users to buy and sell products online.
-- Technologies used: Java, Spring Boot, MySQL, HTML, CSS, JavaScript
-- Github repository: https://github.com/johndoe/e-commerce-website
 
 ## Certifications
-- AWS Certified Solutions Architect - Associate
-- Scrum Master Certified (SMCTM)
+
