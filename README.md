@@ -16,13 +16,15 @@ Sep 2020 - current
 
 
 ## Skills
-- Programming languages: Java, Python, C++, JavaScript, HTML, CSS
-- Database technologies: MySQL, PostgreSQL, MongoDB
-- Web development frameworks: Spring, Django, ExpressJS
+- Programming languages: Java, Python, C++(GLSL focused), C, JavaScript, HTML, CSS
+- Database technologies: MySQL, MongoDB
+- Front-End frameworks: React.js
+- Back-End frameworks: Spring, Django, Express.js
 - Cloud computing: Amazon Web Services (AWS)
-- Operating systems: Windows, Linux
+- Operating systems: macOS, Linux
 - Version control: Git
 - Agile methodologies: Scrum, Kanban
+- Special: DevOps
 
 ## Professional Experience
 
