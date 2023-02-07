@@ -15,7 +15,7 @@ University of California, San Diego
 Sep 2020 - current
 
 
-## Skills
+## Software Skills
 - Programming languages: Java, Python, C++(GLSL focused), C, JavaScript, HTML(WXML), CSS
 - Database technologies: MySQL, MongoDB
 - Front-End frameworks: React.js
@@ -25,6 +25,9 @@ Sep 2020 - current
 - Version control: Git
 - Agile methodologies: Scrum, Kanban
 - Special: DevOps
+
+## Hardware Skills
+
 
 ## Professional Experience
 
