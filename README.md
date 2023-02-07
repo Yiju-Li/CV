@@ -1,6 +1,6 @@
 # Yiju's Professional Portfolio
 
-*Note: This comprehensive portfolio provides an in-depth look at my professional background and achievements. For a concise overview of my qualifications, please refer to my [standard resume, accessible via the provided link](resume).*
+*Note: This portfolio offers a comprehensive examination of my professional background and accomplishments. For a succinct overview of my software engineering qualifications, please refer to my [standard software engineering resume](resume_software). For a clear summary of my hardware engineering qualifications, please refer to my [standard hardware engineering resume](resume_hardware).*
 
 [Full Name]
 [Address]
