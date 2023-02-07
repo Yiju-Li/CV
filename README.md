@@ -8,6 +8,12 @@ During my internship at Qingmu Life Tech, I had the opportunity to contribute to
 
 With a professional attitude and commitment to delivering high-quality work, I am constantly striving to improve and expand my skillset. My educational background and internship experience make me a strong candidate for both software and hardware engineering positions. I am eager to bring my skills and knowledge to a new role, continue growing as a professional, and make a valuable contribution to the company.
 
+## Education
+Bachelor of Science in Computer Engineering 
+Bachelor of Science in Applied Mathematics
+University of California, San Diego  
+Sep 2020 - current
+
 ## Skills
 - Programming languages: Java, Python, C++, JavaScript, HTML, CSS
 - Database technologies: MySQL, PostgreSQL, MongoDB
@@ -39,10 +45,6 @@ Jan 2016 - Dec 2017
 - Assisted in testing and debugging applications.
 - Improved the application's user interface and overall user experience.
 
-## Education
-Bachelor of Science in Computer Science  
-University of California, Berkeley  
-Sep 2012 - May 2016
 
 ## Projects
 
