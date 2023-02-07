@@ -2,6 +2,7 @@
 
 [YijuLi.career@gmail.com](mailto: YijuLi.career@gmail.com)
 
+
 *Note: This portfolio offers a comprehensive examination of my professional background and accomplishments. For a succinct overview of my software engineering qualifications, please refer to my [standard software engineering resume](resume_software). For a clear summary of my hardware engineering qualifications, please refer to my [standard hardware engineering resume](resume_hardware).*
 
 As a student pursuing a dual degree in Computer Engineering and Applied Mathematics at the University of California, San Diego, I have gained a thorough understanding of software and hardware development. My education has been enriched through internships at companies such as Cloudgame and Ubtech, where I contributed as a software engineer intern, focusing on front-end development projects using React and CSS.
