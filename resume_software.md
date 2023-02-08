@@ -41,4 +41,4 @@ Sep 2020 - current
 - Cine-Eval: A Comprehensive **Full-Stack Web Application** for Movie Review and Evaluation  
     - Utilized ReactJS for the front-end and ExpressJS for the back-end. The front-end was connected to the back-end through HTTP requests, specifically using POST requests to submit data and retrieve information from the database. 
     - The database utilized is MySQL, which connects to the ExpressJS back-end through the use of RESTful APIs. The APIs were designed to handle the basic CRUD operations in order to allow for seamless interaction with the database. 
-    - The entire project was deployed on Amazon Web Services (AWS) cloud platform, leveraging its powerful computing resources to ensure seamless performance and scalability.
+    - The deployment of the project on Amazon Web Services (AWS) was executed by utilizing EC2 instances, and involved the creation of virtual servers and the configuration of network and security parameters to accommodate the application and its dependencies.
