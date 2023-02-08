@@ -12,7 +12,10 @@ Bachelor of Science in Applied Mathematics
 University of California, San Diego  
 Sep 2020 - current
 
-## Software Skills
+## Technical Skills
+*The skills listed below have been thoroughly understood and consistently applied in my professional experiences and personal projects. For further insight into my projects, please refer to my website by accessing the [YijuLi.info](https://yijuli.info).*
+
+## Software Related
 - Programming languages: Java, Python, C++(GLSL), C, JavaScript, HTML(WXML), CSS
 - Focused Topics: Advanced Data Structures, Advanced Algorithms, Reinforcement Algorithms, Neural Network, CV
 - Database technologies: MySQL, MongoDB
@@ -24,7 +27,7 @@ Sep 2020 - current
 - Agile methodologies: Scrum, Kanban
 - Special: DevOps
 
-## Hardware Skills
+## Hardware Related
 - Computer Engineer: Digital Electronics and Circuit, Computer Architecture Design(ISA)
 - HDL: SystemVerilog, VHDL
 - EDA tools: Modelsim(Questa), Quartus
