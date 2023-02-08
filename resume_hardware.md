@@ -29,13 +29,13 @@ Sep 2020 - current
 
 ## Hardware Engineering Project
 *For a comprehensive understanding of my professional endeavors, I invite you to visit my website at [YijuLi.info/Projects](https://yijuli.info/projects), where more projects are available for review.*
-- MIPS-inspired Microcontroller Design with SystemVerilog
+- **MIPS-inspired Microcontroller Design with SystemVerilog**
 Designed a MIPS-inspired Instruction Set Architecture featuring 9-bit instruction length and 16 registers, created an efficient assembler, developed control unit, ALU, and memory components, verified the microcontroller design with a custom testbench and synthesized the SystemVerilog code in Quartus for hardware demonstration.
 
-- Circuit Optimizer
+- **Circuit Optimizer**
 The project optimized Boolean functions for digital circuit design by simplifying and minimizing a two-level description of the function using various algorithms and heuristics.
 
-- DSP System Design with VHDL
+- **DSP System Design with VHDL**
 Implemented a DSP system hardware design in VHDL, designed and developed digital components such as filters and signal processing blocks, and verified functionality and performance through simulation and testing.
 
 ## Professional Experience
