@@ -45,3 +45,34 @@ I designed and implemented a digital signal processing (DSP) system using VHDL. 
 - Implemented a hardware design of the DSP system, utilizing the VHDL hardware description language.
 - Designed and developed the required digital components, such as filters and signal processing blocks, to meet the specific requirements of the system.
 - Verified the functionality and performance of the hardware implementation through simulation and testing, ensuring the correct operation of the DSP system.
+
+### 4
+The back-end of the online movie review website was built using the Express.js framework, which is a popular, fast, and flexible Node.js web application framework. To connect the Express.js application to the MySQL database, we utilized the MySQL npm package. This package provided a convenient and efficient way to interact with the MySQL database and perform CRUD (Create, Read, Update, and Delete) operations, such as adding and retrieving movie reviews.
+
+In terms of implementation, we created RESTful APIs using Express.js that provided the necessary functionality for the front-end of the website to interact with the back-end and retrieve data from the database. These APIs were built using Express.js route handlers, which enabled us to define the URLs for different resources and how they should be handled. We also used Express.js middleware, such as body-parser, to parse incoming requests and extract the relevant information required for our database queries.
+
+The MySQL database was used to store all the movie reviews along with other relevant information, such as the movie title, review author, and rating. The database was set up with appropriate tables and relationships to efficiently store and retrieve the data. When a user added a new movie review, the front-end sent a POST request to the appropriate Express.js API endpoint, which then processed the request and added the new review to the database. When a user wanted to view movie reviews, the front-end sent a GET request to the appropriate API endpoint, which then retrieved the required data from the database and sent it back to the front-end for display.
+
+This architecture allowed us to create a dynamic, scalable, and efficient online movie review website, where users could add and view movie reviews with ease.
+
+
+Front-end:
+Utilized ReactJS to create a dynamic, user-friendly interface for the online movie review website.
+Implemented React components to handle user interactions and update the website in real-time.
+Utilized React Hooks to manage the state and lifecycle of the components.
+Incorporated styling using CSS to improve the visual appearance of the website.
+Back-end:
+Utilized ExpressJS to build a RESTful API for the back-end of the application.
+Implemented the CRUD (Create, Read, Update, and Delete) operations to handle the data flow between the front-end and the database.
+Used HTTP Post requests to send data to the server and receive responses.
+Defined endpoints to handle different API requests and return appropriate responses.
+Database:
+Used MySQL as the database management system to store and manage the movie review data.
+Connected to the MySQL database using the appropriate drivers and library functions.
+Executed SQL queries to retrieve and manipulate data, and utilized database transactions to ensure data consistency and reliability.
+Deployment:
+Deployed the application on AWS, utilizing Amazon's cloud computing services.
+Configured AWS services such as EC2, S3, and RDS to support the web application.
+Implemented AWS security measures to protect the website and the sensitive data.
+Managed the infrastructure and monitoring performance of the application.
+

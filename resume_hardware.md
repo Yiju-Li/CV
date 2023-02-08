@@ -32,7 +32,6 @@ Sep 2020 - current
     Designed and executed test plans, identified and reported software bugs, working closely with the development team in daily meetings to ensure a seamless and stable user experience for the end-users, and performed pressure tests to evaluate product stability and reliability under heavy usage conditions.
 
 ## Technical Skills
-*The skills listed below have been thoroughly understood and consistently applied in my professional experiences and personal projects.*
 - Hardware Related
   - Topics Focused: **Digital Electronics and Circuit**, **Microcontroller/Microelectronic System Design**
   - **HDL**: SystemVerilog, VHDL

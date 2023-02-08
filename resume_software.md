@@ -3,6 +3,7 @@
 [YijuLi.career@gmail.com](mailto:YijuLi.career@gmail.com), [(518)-258-3650](tel:5182583650)
 
 *Last Revised: 2023/02/07. To access my latest resume, please click this [link](resume_software.pdf). For further insights into my profile, kindly visit [YijuLi.info](https://yijuli.info).*  
+
 As a computer engineering and applied mathematics student at the University of California, San Diego, I have gained expertise in software development through internships at companies such as Cloudgame, Ubtech, and Qingmu Life Tech. I have honed my skills in front-end development using React and CSS, app development for the Wechat system using WXHL and JavaScript, and Android app development using Java and the Android SDK. My hands-on experience has given me a deep understanding of the development process, from design to deployment, and the importance of collaboration and communication in software development. I am a dedicated and hardworking individual who consistently strives to improve and expand my skillset and am eager to bring my skills and knowledge to a new role.
 
 ## Education
@@ -25,14 +26,20 @@ Sep 2020 - current
     - Performed pressure tests to evaluate the stability and reliability of the gaming products under heavy usage conditions.
 
 ## Technical Skills
-*The skills listed below have been thoroughly understood and consistently applied in my professional experiences and personal projects.*  
+- Software Related
+  - Programming languages: **Java**, **Python**, C++(**GLSL**), **C**, **JavaScript**, **HTML**(WXML), **CSS**
+  - Topics Focused: Advanced Data Structures and Advanced Algorithms, **Reinforcement Algorithms**, **Neural Network**, **CV**, **Kernel Programming**, **Computer Graphics**
+  Proficient Technologies: **Database**[MySQL, MongoDB], **Web Framework**[ReactJs, Spring, Django, ExpressJs], Cloud Computing[Amazon Web Services (**AWS**), Alibaba Cloud], Tools[Linux, **Git**, **DevOps**]
 - Hardware Related
   - Topics Focused: **Digital Electronics and Circuit**, **Microcontroller/Microelectronic System Design**
   - **HDL**: SystemVerilog, VHDL
   - **EDA tools**: Modelsim(Questa), Quartus
 
-- Software Related
-  - Programming languages: **Java**, **Python**, C++(**GLSL**), **C**, **JavaScript**, **HTML**(WXML), **CSS**
-  - Topics Focused: Advanced Data Structures and Advanced Algorithms, **Reinforcement Algorithms**, **Neural Network**, **CV**, **Kernel Programming**, **Computer Graphics**
-  Proficient Technologies: **Database**[MySQL, MongoDB], **Web Framework**[ReactJs, Spring, Django, ExpressJs], Cloud Computing[Amazon Web Services (**AWS**), Alibaba Cloud], Tools[Linux, **Git**, **DevOps**]
+## Software Engineering Project
+*For a comprehensive understanding of my professional endeavors, I invite you to visit my website at [YijuLi.info/Projects](https://yijuli.info/projects), where more projects are available for review.*
 
+- Cine-Eval: A Comprehensive **Full-Stack Web Application** for Movie Review and Evaluation  
+The purpose of this project is to provide a platform for users to rate and review movies, offering a comprehensive and streamlined experience through the utilization of modern technologies including full-stack web development, database management, and cloud computing.
+    - In the development of the online movie review website, I utilized ReactJS for the front-end and ExpressJS for the back-end. The front-end was connected to the back-end through HTTP requests, specifically using POST requests to submit data and retrieve information from the database. 
+    - The database utilized was MySQL, which was connected to the ExpressJS back-end through the use of RESTful APIs. The APIs were designed to handle the basic CRUD (Create, Read, Update, Delete) operations in order to allow for seamless interaction with the database. 
+    - The entire project was deployed on Amazon Web Services (AWS) cloud platform, leveraging its powerful computing resources to ensure seamless performance and scalability.
