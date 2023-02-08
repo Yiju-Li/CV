@@ -78,3 +78,14 @@ Managed the infrastructure and monitoring performance of the application.
 
 The purpose of this project is to provide a platform for users to rate and review movies, offering a comprehensive and streamlined experience through the utilization of modern technologies including full-stack web development, database management, and cloud computing.
 
+## 4
+
+I bring a strong understanding of both software and hardware development, having honed my technical skills through internships at Shengmu Life, UBTech, and CloudGame. My passion for hardware engineering is supported by my strong foundation in mathematical modeling and problem-solving skills.
+
+My projects include a MIPS-inspired Microcontroller Design, Circuit Optimizer, DSP System Design, and more. I have also developed a comprehensive Full-Stack Web Application for Movie Review and Evaluation, and a Kernel-Level Thread Management Library for Linux. I have utilized technologies such as ReactJS, ExpressJS, MySQL, and AWS for my projects. Additionally, I have worked on an AI Solution for Incomplete Information Competition and developed a decision-flow algorithm to guide AI's behavior.
+
+I approach every task with a professional demeanor and am dedicated to delivering outstanding work. My hands-on experience in software and QA engineering, as well as my technical skills, make me a valuable asset in hardware engineering.
+
+I aim to become a successful engineer with a passion for both software and hardware development to deliver outstanding work and continuously grow in my career.
+
+My passion for engineering, combined with my mathematical modeling and problem-solving skills, position me as a valuable asset in the field. I am dedicated to delivering outstanding work and continuously improving my technical abilities. Additionally, my strong math background and interest in differential geometry enhance my capabilities as an engineer. I am committed to realizing my career goal of becoming a successful engineer through continued learning and hands-on experience.
