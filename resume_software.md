@@ -42,9 +42,9 @@ Sep 2020 - current
     - Utilized ReactJS for the front-end and ExpressJS for the back-end. The front-end was connected to the back-end through HTTP requests, specifically using POST requests to submit data and retrieve information from the database. 
     - The database utilized is MySQL, which connects to the ExpressJS back-end through the use of RESTful APIs. The APIs were designed to handle the basic CRUD operations in order to allow for seamless interaction with the database. 
     - The deployment of the project on Amazon Web Services (AWS) was executed by utilizing EC2 instances, and involved the creation of virtual servers and the configuration of network and security parameters to accommodate the application and its dependencies.
-- Kernel-Level Thread Management Library for Linux
+- **Kernel-Level** Thread Management Library for Linux
   - Designed and implemented a custom thread library for the Linux kernel in C, incorporating robust thread management capabilities, priority-based scheduling algorithm, semaphores for synchronization, inter-thread communication mechanisms such as pipes, message queues and shared memory.
   - Leveraged rate monotonic scheduling, thread pooling, and dynamic load balancing to  ensured real-time responsiveness, optimized thread management and resource utilization and maximized performance by distributing workloads among threads
-- Inspired by Microsoft Suphx: AI Solution for Incomplete Information Competition
+- Inspired by Microsoft Suphx: **AI** Solution for Incomplete Information Competition
   - Developed a Python-based data collection helper to gather real-world game data for AI training, and implemented a decision-flow algorithm to guide the AI's behavior in different scenarios. 
-  - Trained multiple decision-related models using both full and incomplete information for a unique training approach.
+  - Trained multiple decision-related **NN** models using both full and incomplete information for a unique training approach.
