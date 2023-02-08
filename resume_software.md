@@ -25,16 +25,6 @@ Sep 2020 - current
     - Designed and executed test plans, identified and reported software bugs, and worked closely with the development team to ensure a seamless user experience for the end-users.
     - Performed pressure tests to evaluate the stability and reliability of the gaming products under heavy usage conditions.
 
-## Technical Skills
-- Software Related
-  - Programming languages: **Java**, **Python**, C++(**GLSL**), **C**, **JavaScript**, **HTML**(WXML), **CSS**
-  - Topics Focused: Advanced Data Structures and Advanced Algorithms, **Reinforcement Algorithms**, **Neural Network**, **CV**, **Kernel Programming**, **Computer Graphics**
-  Proficient Technologies: **Database**[MySQL, MongoDB], **Web Framework**[ReactJs, Spring, Django, ExpressJs], Cloud Computing[Amazon Web Services (**AWS**), Alibaba Cloud], Tools[Linux, **Git**, **DevOps**]
-- Hardware Related
-  - Topics Focused: **Digital Electronics and Circuit**, **Microcontroller/Microelectronic System Design**
-  - **HDL**: SystemVerilog, VHDL
-  - **EDA tools**: Modelsim(Questa), Quartus
-
 ## Software Engineering Project
 *For a comprehensive understanding of my professional endeavors, I invite you to visit my website at [YijuLi.info/Projects](https://yijuli.info/projects), where more projects are available for review.*
 
@@ -48,3 +38,14 @@ Sep 2020 - current
 - Inspired by Microsoft Suphx: **AI** Solution for Incomplete Information Competition
   - Developed a Python-based data collection helper to gather real-world game data for AI training, and implemented a decision-flow algorithm to guide the AI's behavior in different scenarios. 
   - Trained multiple decision-related **NN** models using both full and incomplete information for a unique training approach.
+
+## Technical Skills
+- Software Related
+  - Programming languages: **Java**, **Python**, C++(**GLSL**), **C**, **JavaScript**, **HTML**(WXML), **CSS**
+  - Topics Focused: Advanced Data Structures and Advanced Algorithms, **Reinforcement Algorithms**, **Neural Network**, **CV**, **Kernel Programming**, **Computer Graphics**
+  Proficient Technologies: **Database**[MySQL, MongoDB], **Web Framework**[ReactJs, Spring, Django, ExpressJs], Cloud Computing[Amazon Web Services (**AWS**), Alibaba Cloud], Tools[Linux, **Git**, **DevOps**]
+- Hardware Related
+  - Topics Focused: **Digital Electronics and Circuit**, **Microcontroller/Microelectronic System Design**
+  - **HDL**: SystemVerilog, VHDL
+  - **EDA tools**: Modelsim(Questa), Quartus
+
