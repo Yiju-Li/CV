@@ -10,7 +10,7 @@ I approach every task with a professional demeanor and am dedicated to deliverin
 ## Education
 Bachelor of Science in Computer Engineering  
 Bachelor of Science in Applied Mathematics  
-University of California, San Diego, 
+University of California, San Diego  
 Sep 2020 - current
 
 ## Technical Skills
