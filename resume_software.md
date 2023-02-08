@@ -35,21 +35,18 @@ Sep 2020 - current
 ## Professional Experience
 
 ### Software Engineer Intern
-Shengmu Life, Chengdu, China  
-2022 Summer, 10 weeks
+Shengmu Life, 2022 Summer, 10 weeks
 - Developed Wechat apps with WXHL and JavaScript, including feature creation and app stability/performance assurance.
 - Collaborated on dynamic, user-friendly Android apps using Java and Android SDK, meeting business requirements.
 
 ### Software Engineer Intern
-UBTech, Shenzhen, China  
-2021 Summer, 8 weeks
+UBTech, 2021 Summer, 8 weeks
 - Developed a web-application, utilizing JavaScript and React to enhance the product's functionality and user experience.
 - Modified components in the programming interface to make it more approachable and accessible, particularly for young-aged children.
 - Improved the logistics of the programming process to simplify the user experience, making it easier for individuals of all ages to understand and operate the system.
 
 ### Quality Assurance (QA) Engineer Intern
-CloudGame, Beijing, China  
-2020 Summer, 10 weeks
+CloudGame, 2020 Summer, 10 weeks
 - Designed and executed test plans, identified and reported software bugs, and worked closely with the development team to ensure a seamless user experience for the end-users.
 - Performed pressure tests to evaluate the stability and reliability of the gaming products under heavy usage conditions.
 

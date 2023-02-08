@@ -13,7 +13,7 @@ University of California, San Diego
 Sep 2020 - current
 
 ## Technical Skills
-*The skills listed below have been thoroughly understood and consistently applied in my professional experiences and personal projects. For further insight into my projects, please refer to my website by accessing the [YijuLi.info](https://yijuli.info).*
+*The skills listed below have been thoroughly understood and consistently applied in my professional experiences and personal projects.*
 
 ### Hardware Related
 - Computer Engineer: Digital Electronics and Circuit, Computer Architecture Design(ISA)
@@ -35,20 +35,30 @@ Sep 2020 - current
 ## Professional Experience
 
 ### Software Engineer Intern
-Shengmu Life, Chengdu, China  
-2022 Summer, 10 weeks
-- Developed Wechat apps with WXHL and JavaScript, including feature creation and app stability/performance assurance.
-- Collaborated on dynamic, user-friendly Android apps using Java and Android SDK, meeting business requirements.
+Shengmu Life, 2022 Summer, 10 weeks
+Developped WeChat apps using WXHL and JavaScript, and collaborated on dynamic Android apps using Java and Android SDK.
 
 ### Software Engineer Intern
-UBTech, Shenzhen, China  
-2021 Summer, 8 weeks
-- Developed a web-application, utilizing JavaScript and React to enhance the product's functionality and user experience.
-- Modified components in the programming interface to make it more approachable and accessible, particularly for young-aged children.
-- Improved the logistics of the programming process to simplify the user experience, making it easier for individuals of all ages to understand and operate the system.
+UBTech, 2021 Summer, 8 weeks
+Developed a web-application using JavaScript and React to improve functionality and user experience, modified components for accessibility and simplified the programming process for easier use by individuals of all ages.
 
 ### Quality Assurance (QA) Engineer Intern
-CloudGame, Beijing, China  
-2020 Summer, 10 weeks
-- Designed and executed test plans, identified and reported software bugs, and worked closely with the development team to ensure a seamless user experience for the end-users.
-- Performed pressure tests to evaluate the stability and reliability of the gaming products under heavy usage conditions.
+CloudGame, 2020 Summer, 10 weeks
+Designed and executed test plans, identified and resolved software bugs, and performed pressure tests to ensure a seamless and stable user experience for the product.
+
+## Hardware Engineering Project
+*For further insight into my projects, please refer to my website by accessing the [YijuLi.info](https://yijuli.info).*
+### MIPS-inspired Microcontroller Design
+- Implemented a MIPS-inspired Instruction Set Architecture (ISA) featuring 9-bit instruction length and 16 registers.
+- Created a highly efficient and effective assembler program to translate human-readable assembly code into machine code in accordance with the ISA specification.
+- Developed the necessary control unit, ALU, and memory components for the ISA using SystemVerilog.
+- Conducted thorough testing and verification of the microcontroller design using a custom-designed testbench and Synthesized the SystemVerilog code in Quartus to demonstrate its functionality on hardware.
+
+### Circuit Optimizer
+- This is a project focused on optimizing Boolean functions for digital circuit design.
+- The project involved taking as input a two-level description of a Boolean function and using a range of algorithms and heuristics to simplify and minimize the function. 
+
+### DSP System Design with VHDL
+- Implemented a hardware design of the DSP system, utilizing the VHDL hardware description language.
+- Designed and developed the required digital components, such as filters and signal processing blocks, to meet the specific requirements of the system.
+- Verified the functionality and performance of the hardware implementation through simulation and testing, ensuring the correct operation of the DSP system.
