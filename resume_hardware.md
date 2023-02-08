@@ -49,4 +49,6 @@ Sep 2020 - current
 - **Software Engineer Intern** in UBTech, 2021 Summer, 8 weeks.
 
     Developed a web-application using JavaScript and React to enhance functionality and user experience, actively working with the team in daily stand-up meetings to modify components for accessibility and simplify the programming process for easier use by individuals of all ages.
-- Quality Assurance (QA) Engineer Intern in CloudGame, 2020 Summer, 10 weeks.
+- **Quality Assurance (QA) Engineer Intern** in CloudGame, 2020 Summer, 10 weeks.
+
+    Designed and executed test plans, identified and reported software bugs, working closely with the development team in daily meetings to ensure a seamless and stable user experience for the end-users, and performed pressure tests to evaluate product stability and reliability under heavy usage conditions.
