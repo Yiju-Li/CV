@@ -15,7 +15,6 @@ Sep 2020 - current
 
 ## Technical Skills
 *The skills listed below have been thoroughly understood and consistently applied in my professional experiences and personal projects.*
-
 ### Hardware Related
 - Computer Engineer: Digital Electronics and Circuit, Computer Architecture Design(ISA)
 - HDL: SystemVerilog, VHDL
