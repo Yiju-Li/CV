@@ -4,12 +4,13 @@
 
 *Last Revised: 2023/02/07. To access my latest resume, please click this [link](resume_hardware.pdf). For further insights into my profile, kindly visit [YijuLi.info](https://yijuli.info).*
 
-As a student at the University of California, San Diego pursuing a dual degree in Computer Engineering and Applied Mathematics, I have a comprehensive understanding of both software and hardware development. I have a strong interest in hardware and am always looking for opportunities to explore and enhance my skills in this field. My background in Applied Mathematics has provided me with a solid foundation in mathematical modeling and problem solving, which I believe will be valuable assets in hardware engineering. I approach every task with a professional attitude and a commitment to delivering high-quality work. I am eager to bring my skills and knowledge to a new role and continue to grow as a hardware engineer.
+As a dual-degree student at the University of California, San Diego, pursuing Computer Engineering and Applied Mathematics, I bring a thorough understanding of both software and hardware development to the table. My passion for hardware has driven me to constantly seek opportunities to improve my skills in this field. My strong foundation in mathematical modeling and problem-solving, acquired through my studies in Applied Mathematics, makes me a valuable asset in hardware engineering.  
+I approach every task with a professional demeanor and am dedicated to delivering outstanding work. My hands-on experience as a software engineer intern at Shengmu Life and UBTech has honed my technical skills and ability to work in a team. Additionally, my experience as a QA engineer intern at CloudGame has enhanced my attention to detail and problem-solving skills. I am enthusiastic about the opportunity to apply my skills and continue to grow as a hardware engineer in a new role.
 
 ## Education
 Bachelor of Science in Computer Engineering  
 Bachelor of Science in Applied Mathematics  
-University of California, San Diego  
+University of California, San Diego, 
 Sep 2020 - current
 
 ## Technical Skills
@@ -45,14 +46,6 @@ Sep 2020 - current
 
 ## Professional Experience
 
-### Software Engineer Intern
-Shengmu Life, 2022 Summer, 10 weeks
-Developped WeChat apps using WXHL and JavaScript, and collaborated on dynamic Android apps using Java and Android SDK.
-
-### Software Engineer Intern
-UBTech, 2021 Summer, 8 weeks
-Developed a web-application using JavaScript and React to improve functionality and user experience, modified components for accessibility and simplified the programming process for easier use by individuals of all ages.
-
-### Quality Assurance (QA) Engineer Intern
-CloudGame, 2020 Summer, 10 weeks
-Designed and executed test plans, identified and resolved software bugs, and performed pressure tests to ensure a seamless and stable user experience for the product.
+- Software Engineer Intern in Shengmu Life, 2022 Summer, 10 weeks.
+- Software Engineer Intern in UBTech, 2021 Summer, 8 weeks.
+- Quality Assurance (QA) Engineer Intern in CloudGame, 2020 Summer, 10 weeks.
