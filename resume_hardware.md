@@ -2,7 +2,7 @@
 
 [YijuLi.career@gmail.com](mailto:YijuLi.career@gmail.com)
 
-*Last Revised: 2023/01/15. To access my latest resume, please click this [link](resume_hardware.pdf). For further insights into my profile, kindly visit [YijuLi.info](https://yijuli.info).*
+*Last Revised: 2023/02/07. To access my latest resume, please click this [link](resume_hardware.pdf). For further insights into my profile, kindly visit [YijuLi.info](https://yijuli.info).*
 
 As a student at the University of California, San Diego pursuing a dual degree in Computer Engineering and Applied Mathematics, I have a comprehensive understanding of both software and hardware development. I have a strong interest in hardware and am always looking for opportunities to explore and enhance my skills in this field. My background in Applied Mathematics has provided me with a solid foundation in mathematical modeling and problem solving, which I believe will be valuable assets in hardware engineering. I approach every task with a professional attitude and a commitment to delivering high-quality work. I am eager to bring my skills and knowledge to a new role and continue to grow as a hardware engineer.
 
@@ -22,7 +22,7 @@ Sep 2020 - current
 
 ### Software Related
 - Programming languages: Java, Python, C++(GLSL), C, JavaScript, HTML(WXML), CSS
-- Focused Topics: Advanced Data Structures, Advanced Algorithms, Reinforcement Algorithms, Neural Network, CV
+- Focused Topics: Advanced Data Structures and Algorithms, Reinforcement Algorithms, Neural Network, CV
 - Proficient Technologies: MySQL, MongoDB, React.js, Spring, Django, Express.js, Amazon Web Services (AWS), Alibaba Cloud, Linux, Git, DevOps
 - Agile methodologies: Scrum, Kanban
 

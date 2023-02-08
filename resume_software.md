@@ -2,7 +2,7 @@
 
 [YijuLi.career@gmail.com](mailto:YijuLi.career@gmail.com)
 
-*Last Revised: 2023/01/15. To access my latest resume, please click this [link](resume_software.pdf). For further insights into my profile, kindly visit [YijuLi.info](https://yijuli.info).*
+*Last Revised: 2023/02/07. To access my latest resume, please click this [link](resume_software.pdf). For further insights into my profile, kindly visit [YijuLi.info](https://yijuli.info).*
 
 As a computer engineering and applied mathematics student at the University of California, San Diego, I have gained expertise in software development through internships at companies such as Cloudgame, Ubtech, and Qingmu Life Tech. I have honed my skills in front-end development using React and CSS, app development for the Wechat system using WXHL and JavaScript, and Android app development using Java and the Android SDK. My hands-on experience has given me a deep understanding of the development process, from design to deployment, and the importance of collaboration and communication in software development. I am a dedicated and hardworking individual who consistently strives to improve and expand my skillset and am eager to bring my skills and knowledge to a new role.
 
@@ -17,7 +17,7 @@ Sep 2020 - current
 
 ### Software Related
 - Programming languages: Java, Python, C++(GLSL), C, JavaScript, HTML(WXML), CSS
-- Focused Topics: Advanced Data Structures, Advanced Algorithms, Reinforcement Algorithms, Neural Network, CV
+- Focused Topics: Advanced Data Structures and Advanced Algorithms, Reinforcement Algorithms, Neural Network, CV
 - Database technologies: MySQL, MongoDB
 - Front-End frameworks: React.js
 - Back-End frameworks: Spring, Django, Express.js
