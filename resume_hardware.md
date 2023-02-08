@@ -29,20 +29,14 @@ Sep 2020 - current
 
 ## Hardware Engineering Project
 *For a comprehensive understanding of my professional endeavors, I invite you to visit my website at [YijuLi.info/Projects](https://yijuli.info/projects), where more projects are available for review.*
-### MIPS-inspired Microcontroller Design
-- Implemented a MIPS-inspired Instruction Set Architecture (ISA) featuring 9-bit instruction length and 16 registers.
-- Created a highly efficient and effective assembler program to translate human-readable assembly code into machine code in accordance with the ISA specification.
-- Developed the necessary control unit, ALU, and memory components for the ISA using SystemVerilog.
-- Conducted thorough testing and verification of the microcontroller design using a custom-designed testbench and Synthesized the SystemVerilog code in Quartus to demonstrate its functionality on hardware.
+- MIPS-inspired Microcontroller Design with SystemVerilog
+Designed a MIPS-inspired Instruction Set Architecture featuring 9-bit instruction length and 16 registers, created an efficient assembler, developed control unit, ALU, and memory components, verified the microcontroller design with a custom testbench and synthesized the SystemVerilog code in Quartus for hardware demonstration.
 
-### Circuit Optimizer
-- This is a project focused on optimizing Boolean functions for digital circuit design.
-- The project involved taking as input a two-level description of a Boolean function and using a range of algorithms and heuristics to simplify and minimize the function. 
+- Circuit Optimizer
+The project optimized Boolean functions for digital circuit design by simplifying and minimizing a two-level description of the function using various algorithms and heuristics.
 
-### DSP System Design with VHDL
-- Implemented a hardware design of the DSP system, utilizing the VHDL hardware description language.
-- Designed and developed the required digital components, such as filters and signal processing blocks, to meet the specific requirements of the system.
-- Verified the functionality and performance of the hardware implementation through simulation and testing, ensuring the correct operation of the DSP system.
+- DSP System Design with VHDL
+Implemented a DSP system hardware design in VHDL, designed and developed digital components such as filters and signal processing blocks, and verified functionality and performance through simulation and testing.
 
 ## Professional Experience
 
