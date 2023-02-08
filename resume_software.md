@@ -12,7 +12,7 @@ Bachelor of Science in Applied Mathematics
 University of California, San Diego  
 Sep 2020 - current
 
-### Technical Skills
+## Technical Skills
 *The skills listed below have been thoroughly understood and consistently applied in my professional experiences and personal projects. For further insight into my projects, please refer to my website by accessing the [YijuLi.info](https://yijuli.info).*
 
 ### Software Related
@@ -27,7 +27,7 @@ Sep 2020 - current
 - Agile methodologies: Scrum, Kanban
 - Special: DevOps
 
-## Hardware Related
+### Hardware Related
 - Computer Engineer: Digital Electronics and Circuit, Computer Architecture Design(ISA)
 - HDL: SystemVerilog, VHDL
 - EDA tools: Modelsim(Questa), Quartus
