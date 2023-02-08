@@ -5,15 +5,15 @@
 
 Dear Hiring Professionals at Apple,
 
-I am writing to express my strong interest in the Hardware Engineer Intern position at Apple. I am a highly motivated and enthusiastic individual with a strong background in engineering and mathematics, and I am eager to apply my skills and knowledge to this exciting opportunity.
+ am writing to express my strong interest in the Hardware Engineer Intern position at Apple. As a dual-degree student pursuing a degree in Electrical and Computer Engineering, I am confident that my education, experience, and passion for technology make me an excellent fit for this role.
 
-I am a dedicated and hard-working individual who is passionate about technology and innovation. My experience in hardware design and my mathematical background have equipped me with the skills and abilities necessary to excel in this position. I am confident that I can make valuable contributions to your team and help drive the success of your hardware initiatives.
+Throughout my academic and professional journey, I have developed a strong foundation in mathematics and applied it to my engineering work. My love for math has allowed me to excel in coursework such as Differential Geometry and Digital Logic Design, and has equipped me with the problem-solving skills necessary for success in the field of hardware engineering.
 
-Additionally, I am deeply impressed by Apple's culture and commitment to innovation. I am fascinated by the company's unique approach to design and its unwavering focus on creating products that are both functional and aesthetically pleasing. I believe that Apple's culture aligns perfectly with my own values and aspirations, and I am eager to join the company and contribute to its continued success.
+I am also deeply drawn to Apple's culture and mission. The company's commitment to design excellence and innovative thinking resonates with my own values and aspirations. I am eager to contribute to Apple's ongoing efforts to push the boundaries of technology and create products that enrich people's lives.
 
-Thank you for considering my application. I look forward to the opportunity to discuss my qualifications in further detail and how I can contribute to your team.
+As a detail-oriented and highly motivated individual, I am confident in my ability to thrive in this role and make meaningful contributions to Apple's hardware engineering team. Thank you for considering my application. I look forward to the opportunity to further discuss my qualifications with you.
 
-Sincerely,
+Sincerely,  
 Yiju Li
 
 
