@@ -17,7 +17,7 @@ Sep 2020 - current
 
 ### Software Related
 - Programming languages: Java, Python, C++(GLSL), C, JavaScript, HTML(WXML), CSS
-- Focused Topics: Advanced Data Structures and Advanced Algorithms, Reinforcement Algorithms, Neural Network, CV
+- Focused Topics: Advanced Data Structures and Advanced Algorithms, Reinforcement Algorithms, Neural Network, CV, Kernel Programming, Computer Graphics
 - Database technologies: MySQL, MongoDB
 - Front-End frameworks: React.js
 - Back-End frameworks: Spring, Django, Express.js

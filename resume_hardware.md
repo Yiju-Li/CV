@@ -22,7 +22,7 @@ Sep 2020 - current
 
 ### Software Related
 - Programming languages: Java, Python, C++(GLSL), C, JavaScript, HTML(WXML), CSS
-- Focused Topics: Advanced Data Structures and Algorithms, Reinforcement Algorithms, Neural Network, CV
+- Focused Topics: Advanced Data Structures and Algorithms, Reinforcement Algorithms, Neural Network, CV, Kernel Programming, Computer Graphics
 - Proficient Technologies: MySQL, MongoDB, React.js, Spring, Django, Express.js, Amazon Web Services (AWS), Alibaba Cloud, Linux, Git, DevOps
 - Agile methodologies: Scrum, Kanban
 
