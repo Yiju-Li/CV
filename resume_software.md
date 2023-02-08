@@ -37,7 +37,7 @@ As a computer engineering and applied mathematics student at the University of C
 Bachelor of Science in Computer Engineering  
 Bachelor of Science in Applied Mathematics  
 University of California, San Diego  
-Sep 2020 - current
+Sep 2020 - 2024(expected)
 
 ## Technical Skills
 - Software Related

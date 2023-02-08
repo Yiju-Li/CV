@@ -29,7 +29,7 @@ I approach every task with a professional demeanor and am dedicated to deliverin
 Bachelor of Science in Computer Engineering  
 Bachelor of Science in Applied Mathematics  
 University of California, San Diego  
-Sep 2020 - current
+Sep 2020 - 2024(expected)
 
 ## Technical Skills
 - Hardware Related
