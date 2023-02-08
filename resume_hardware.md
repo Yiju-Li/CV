@@ -43,8 +43,7 @@ Sep 2020 - current
 
 ## Professional Experience
 
-- **Software Engineer Intern** in Shengmu Life, 2022 Summer, 10 weeks.
-
+- **Software Engineer Intern** in Shengmu Life, 2022 Summer, 10 weeks.  
     Developed and collaborated on Agile development of WeChat apps with WXHL and JavaScript and dynamic, user-friendly Android apps using Java and Android SDK, ensuring app stability, performance and meeting business requirements.
 - **Software Engineer Intern** in UBTech, 2021 Summer, 8 weeks.
 
