@@ -23,28 +23,8 @@ Sep 2020 - current
 ### Software Related
 - Programming languages: Java, Python, C++(GLSL), C, JavaScript, HTML(WXML), CSS
 - Focused Topics: Advanced Data Structures, Advanced Algorithms, Reinforcement Algorithms, Neural Network, CV
-- Database technologies: MySQL, MongoDB
-- Front-End frameworks: React.js
-- Back-End frameworks: Spring, Django, Express.js
-- Cloud computing: Amazon Web Services (AWS), Alibaba Cloud
-- Operating systems: macOS, Linux
-- Version control: Git
+- Proficient Technologies: MySQL, MongoDB, React.js, Spring, Django, Express.js, Amazon Web Services (AWS), Alibaba Cloud, Linux, Git, DevOps
 - Agile methodologies: Scrum, Kanban
-- Special: DevOps
-
-## Professional Experience
-
-### Software Engineer Intern
-Shengmu Life, 2022 Summer, 10 weeks
-Developped WeChat apps using WXHL and JavaScript, and collaborated on dynamic Android apps using Java and Android SDK.
-
-### Software Engineer Intern
-UBTech, 2021 Summer, 8 weeks
-Developed a web-application using JavaScript and React to improve functionality and user experience, modified components for accessibility and simplified the programming process for easier use by individuals of all ages.
-
-### Quality Assurance (QA) Engineer Intern
-CloudGame, 2020 Summer, 10 weeks
-Designed and executed test plans, identified and resolved software bugs, and performed pressure tests to ensure a seamless and stable user experience for the product.
 
 ## Hardware Engineering Project
 *For further insight into my projects, please refer to my website by accessing the [YijuLi.info](https://yijuli.info).*
@@ -62,3 +42,17 @@ Designed and executed test plans, identified and resolved software bugs, and per
 - Implemented a hardware design of the DSP system, utilizing the VHDL hardware description language.
 - Designed and developed the required digital components, such as filters and signal processing blocks, to meet the specific requirements of the system.
 - Verified the functionality and performance of the hardware implementation through simulation and testing, ensuring the correct operation of the DSP system.
+
+## Professional Experience
+
+### Software Engineer Intern
+Shengmu Life, 2022 Summer, 10 weeks
+Developped WeChat apps using WXHL and JavaScript, and collaborated on dynamic Android apps using Java and Android SDK.
+
+### Software Engineer Intern
+UBTech, 2021 Summer, 8 weeks
+Developed a web-application using JavaScript and React to improve functionality and user experience, modified components for accessibility and simplified the programming process for easier use by individuals of all ages.
+
+### Quality Assurance (QA) Engineer Intern
+CloudGame, 2020 Summer, 10 weeks
+Designed and executed test plans, identified and resolved software bugs, and performed pressure tests to ensure a seamless and stable user experience for the product.
