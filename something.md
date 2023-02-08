@@ -76,3 +76,5 @@ Configured AWS services such as EC2, S3, and RDS to support the web application.
 Implemented AWS security measures to protect the website and the sensitive data.
 Managed the infrastructure and monitoring performance of the application.
 
+The purpose of this project is to provide a platform for users to rate and review movies, offering a comprehensive and streamlined experience through the utilization of modern technologies including full-stack web development, database management, and cloud computing.
+

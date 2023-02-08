@@ -39,7 +39,6 @@ Sep 2020 - current
 *For a comprehensive understanding of my professional endeavors, I invite you to visit my website at [YijuLi.info/Projects](https://yijuli.info/projects), where more projects are available for review.*
 
 - Cine-Eval: A Comprehensive **Full-Stack Web Application** for Movie Review and Evaluation  
-The purpose of this project is to provide a platform for users to rate and review movies, offering a comprehensive and streamlined experience through the utilization of modern technologies including full-stack web development, database management, and cloud computing.
-    - In the development of the online movie review website, I utilized ReactJS for the front-end and ExpressJS for the back-end. The front-end was connected to the back-end through HTTP requests, specifically using POST requests to submit data and retrieve information from the database. 
-    - The database utilized was MySQL, which was connected to the ExpressJS back-end through the use of RESTful APIs. The APIs were designed to handle the basic CRUD (Create, Read, Update, Delete) operations in order to allow for seamless interaction with the database. 
+    - Utilized ReactJS for the front-end and ExpressJS for the back-end. The front-end was connected to the back-end through HTTP requests, specifically using POST requests to submit data and retrieve information from the database. 
+    - The database utilized is MySQL, which connects to the ExpressJS back-end through the use of RESTful APIs. The APIs were designed to handle the basic CRUD operations in order to allow for seamless interaction with the database. 
     - The entire project was deployed on Amazon Web Services (AWS) cloud platform, leveraging its powerful computing resources to ensure seamless performance and scalability.
