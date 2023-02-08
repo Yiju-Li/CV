@@ -18,14 +18,7 @@ Sep 2020 - current
 ### Software Related
 - Programming languages: Java, Python, C++(GLSL), C, JavaScript, HTML(WXML), CSS
 - Focused Topics: Advanced Data Structures and Advanced Algorithms, Reinforcement Algorithms, Neural Network, CV, Kernel Programming, Computer Graphics
-- Database technologies: MySQL, MongoDB
-- Front-End frameworks: React.js
-- Back-End frameworks: Spring, Django, Express.js
-- Cloud computing: Amazon Web Services (AWS), Alibaba Cloud
-- Operating systems: macOS, Linux
-- Version control: Git
-- Agile methodologies: Scrum, Kanban
-- Special: DevOps
+Proficient Technologies: Database[MySQL, MongoDB], Web Framework[React.js, Spring, Django, Express.js], Cloud Computing[Amazon Web Services (AWS), Alibaba Cloud], Tools[Linux, Git, DevOps]
 
 ### Hardware Related
 - Computer Engineer: Digital Electronics and Circuit, Computer Architecture Design(ISA)

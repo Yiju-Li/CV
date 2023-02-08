@@ -13,19 +13,6 @@ Bachelor of Science in Applied Mathematics
 University of California, San Diego  
 Sep 2020 - current
 
-## Technical Skills
-*The skills listed below have been thoroughly understood and consistently applied in my professional experiences and personal projects.*
-### Hardware Related
-- Computer Engineer: Digital Electronics and Circuit, Computer Architecture Design(ISA)
-- HDL: SystemVerilog, VHDL
-- EDA tools: Modelsim(Questa), Quartus
-
-### Software Related
-- Programming languages: Java, Python, C++(GLSL), C, JavaScript, HTML(WXML), CSS
-- Focused Topics: Advanced Data Structures and Algorithms, Reinforcement Algorithms, Neural Network, CV, Kernel Programming, Computer Graphics
-- Proficient Technologies: MySQL, MongoDB, React.js, Spring, Django, Express.js, Amazon Web Services (AWS), Alibaba Cloud, Linux, Git, DevOps
-- Agile methodologies: Scrum, Kanban
-
 ## Hardware Engineering Project
 *For a comprehensive understanding of my professional endeavors, I invite you to visit my website at [YijuLi.info/Projects](https://yijuli.info/projects), where more projects are available for review.*
 - **MIPS-inspired Microcontroller Design with SystemVerilog**  
@@ -43,3 +30,15 @@ Sep 2020 - current
     Developed a web-application using JavaScript and React to enhance functionality and user experience, actively working with the team in daily stand-up meetings to modify components for accessibility and simplify the programming process for easier use by individuals of all ages.
 - **Quality Assurance (QA) Engineer Intern** in CloudGame, 2020 Summer, 10 weeks.  
     Designed and executed test plans, identified and reported software bugs, working closely with the development team in daily meetings to ensure a seamless and stable user experience for the end-users, and performed pressure tests to evaluate product stability and reliability under heavy usage conditions.
+
+## Technical Skills
+*The skills listed below have been thoroughly understood and consistently applied in my professional experiences and personal projects.*
+### Hardware Related
+- Computer Engineer: Digital Electronics and Circuit, Computer Architecture Design(ISA)
+- HDL: SystemVerilog, VHDL
+- EDA tools: Modelsim(Questa), Quartus
+
+### Software Related
+- Programming languages: Java, Python, C++(GLSL), C, JavaScript, HTML(WXML), CSS
+- Focused Topics: Advanced Data Structures and Algorithms, Reinforcement Algorithms, Neural Network, CV, Kernel Programming, Computer Graphics
+- Proficient Technologies: MySQL, MongoDB, React.js, Spring, Django, Express.js, Amazon Web Services (AWS), Alibaba Cloud, Linux, Git, DevOps
