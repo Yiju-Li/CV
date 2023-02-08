@@ -6,12 +6,6 @@
 
 As a computer engineering and applied mathematics student at the University of California, San Diego, I have gained expertise in software development through internships at companies such as Cloudgame, Ubtech, and Qingmu Life Tech. I have honed my skills in front-end development using React and CSS, app development for the Wechat system using WXHL and JavaScript, and Android app development using Java and the Android SDK. My hands-on experience has given me a deep understanding of the development process, from design to deployment, and the importance of collaboration and communication in software development. I am a dedicated and hardworking individual who consistently strives to improve and expand my skillset and am eager to bring my skills and knowledge to a new role.
 
-## Education
-Bachelor of Science in Computer Engineering  
-Bachelor of Science in Applied Mathematics  
-University of California, San Diego  
-Sep 2020 - current
-
 ## Professional Experience
 
 - **Software Engineer Intern** at Shengmu Life, 2022 Summer, 10 weeks  
@@ -38,6 +32,12 @@ Sep 2020 - current
 - Inspired by Microsoft Suphx: **AI** Solution for Incomplete Information Competition
   - Developed a Python-based data collection helper to gather real-world game data for AI training, and implemented a decision-flow algorithm to guide the AI's behavior in different scenarios. 
   - Trained multiple decision-related **NN** models using both full and incomplete information for a unique training approach.
+
+## Education
+Bachelor of Science in Computer Engineering  
+Bachelor of Science in Applied Mathematics  
+University of California, San Diego  
+Sep 2020 - current
 
 ## Technical Skills
 - Software Related

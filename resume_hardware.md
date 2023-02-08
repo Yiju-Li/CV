@@ -7,12 +7,6 @@
 As a dual-degree student at the University of California, San Diego, pursuing Computer Engineering and Applied Mathematics, I bring a thorough understanding of both software and hardware development to the table. My passion for hardware has driven me to constantly seek opportunities to improve my skills in this field. My strong foundation in mathematical modeling and problem-solving, acquired through my studies in Applied Mathematics, makes me a valuable asset in hardware engineering.  
 I approach every task with a professional demeanor and am dedicated to delivering outstanding work. My hands-on experience as a software engineer intern at Shengmu Life and UBTech has honed my technical skills and ability to work in a team. Additionally, my experience as a QA engineer intern at CloudGame has enhanced my attention to detail and problem-solving skills. I am enthusiastic about the opportunity to apply my skills and continue to grow as a hardware engineer in a new role.
 
-## Education
-Bachelor of Science in Computer Engineering  
-Bachelor of Science in Applied Mathematics  
-University of California, San Diego  
-Sep 2020 - current
-
 ## Hardware Engineering Project
 *For a comprehensive understanding of my professional endeavors, I invite you to visit my website at [YijuLi.info/Projects](https://yijuli.info/projects), where more projects are available for review.*
 - **MIPS-inspired Microcontroller Design with SystemVerilog**  
@@ -30,6 +24,12 @@ Sep 2020 - current
     Developed a web-application using JavaScript and React to enhance functionality and user experience, actively working with the team in daily stand-up meetings to modify components for accessibility and simplify the programming process for easier use by individuals of all ages.
 - **Quality Assurance (QA) Engineer Intern** in CloudGame, 2020 Summer, 10 weeks.  
     Designed and executed test plans, identified and reported software bugs, working closely with the development team in daily meetings to ensure a seamless and stable user experience for the end-users, and performed pressure tests to evaluate product stability and reliability under heavy usage conditions.
+
+## Education
+Bachelor of Science in Computer Engineering  
+Bachelor of Science in Applied Mathematics  
+University of California, San Diego  
+Sep 2020 - current
 
 ## Technical Skills
 - Hardware Related
