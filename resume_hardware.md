@@ -30,16 +30,23 @@ Sep 2020 - current
 ## Hardware Engineering Project
 *For a comprehensive understanding of my professional endeavors, I invite you to visit my website at [YijuLi.info/Projects](https://yijuli.info/projects), where more projects are available for review.*
 - **MIPS-inspired Microcontroller Design with SystemVerilog**
-Designed a MIPS-inspired Instruction Set Architecture featuring 9-bit instruction length and 16 registers, created an efficient assembler, developed control unit, ALU, and memory components, verified the microcontroller design with a custom testbench and synthesized the SystemVerilog code in Quartus for hardware demonstration.
+
+    Designed a MIPS-inspired Instruction Set Architecture featuring 9-bit instruction length and 16 registers, created an efficient assembler, developed control unit, ALU, and memory components, verified the microcontroller design with a custom testbench and synthesized the SystemVerilog code in Quartus for hardware demonstration.
 
 - **Circuit Optimizer**
-The project optimized Boolean functions for digital circuit design by simplifying and minimizing a two-level description of the function using various algorithms and heuristics.
+
+    The project optimized Boolean functions for digital circuit design by simplifying and minimizing a two-level description of the function using various algorithms and heuristics.
 
 - **DSP System Design with VHDL**
-Implemented a DSP system hardware design in VHDL, designed and developed digital components such as filters and signal processing blocks, and verified functionality and performance through simulation and testing.
+
+    Implemented a DSP system hardware design in VHDL, designed and developed digital components such as filters and signal processing blocks, and verified functionality and performance through simulation and testing.
 
 ## Professional Experience
 
-- Software Engineer Intern in Shengmu Life, 2022 Summer, 10 weeks.
-- Software Engineer Intern in UBTech, 2021 Summer, 8 weeks.
+- **Software Engineer Intern** in Shengmu Life, 2022 Summer, 10 weeks.
+
+    Developed and collaborated on Agile development of WeChat apps with WXHL and JavaScript and dynamic, user-friendly Android apps using Java and Android SDK, ensuring app stability, performance and meeting business requirements.
+- **Software Engineer Intern** in UBTech, 2021 Summer, 8 weeks.
+
+    Developed a web-application using JavaScript and React to enhance functionality and user experience, actively working with the team in daily stand-up meetings to modify components for accessibility and simplify the programming process for easier use by individuals of all ages.
 - Quality Assurance (QA) Engineer Intern in CloudGame, 2020 Summer, 10 weeks.
