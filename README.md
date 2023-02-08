@@ -1,6 +1,6 @@
 # Yiju Li
 
-[YijuLi.career@gmail.com](mailto:YijuLi.career@gmail.com) \|  [(518)-258-3650](tel:5182583650)
+[YijuLi.career@gmail.com](mailto:YijuLi.career@gmail.com), [(518)-258-3650](tel:5182583650)
 
 *Note: This portfolio offers a comprehensive examination of my professional background and accomplishments. For a succinct overview of my software engineering qualifications, please refer to my [standard software engineering resume](resume_software). For a clear summary of my hardware engineering qualifications, please refer to my [standard hardware engineering resume](resume_hardware).*
 

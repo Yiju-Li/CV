@@ -1,6 +1,6 @@
 # Yiju Li
 
-[YijuLi.career@gmail.com](mailto:YijuLi.career@gmail.com) |  [(518)-258-3650](tel:5182583650)
+[YijuLi.career@gmail.com](mailto:YijuLi.career@gmail.com), [(518)-258-3650](tel:5182583650)
 
 *Last Revised: 2023/02/07. To access my latest resume, please click this [link](resume_hardware.pdf). For further insights into my profile, kindly visit [YijuLi.info](https://yijuli.info).*
 
