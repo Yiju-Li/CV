@@ -34,11 +34,11 @@ Sep 2020 - current
 ## Technical Skills
 *The skills listed below have been thoroughly understood and consistently applied in my professional experiences and personal projects.*
 - Hardware Related
-  - Computer Engineer: Digital Electronics and Circuit, Computer Architecture Design(ISA)
-  - HDL: SystemVerilog, VHDL
-  - EDA tools: Modelsim(Questa), Quartus
+  - Topics Focused: **Digital Electronics and Circuit**, **Microcontroller/Microelectronic System Design**
+  - **HDL**: SystemVerilog, VHDL
+  - **EDA tools**: Modelsim(Questa), Quartus
 
 - Software Related
-  - Programming languages: Java, Python, C++(GLSL), C, JavaScript, HTML(WXML), CSS
-  - Focused Topics: Advanced Data Structures and Advanced Algorithms, Reinforcement Algorithms, Neural Network, CV, Kernel Programming, Computer Graphics
-  Proficient Technologies: Database[MySQL, MongoDB], Web Framework[React.js, Spring, Django, Express.js], Cloud Computing[Amazon Web Services (AWS), Alibaba Cloud], Tools[Linux, Git, DevOps]
+  - Programming languages: **Java**, **Python**, C++(**GLSL**), **C**, **JavaScript**, **HTML**(WXML), **CSS**
+  - Topics Focused: Advanced Data Structures and Advanced Algorithms, **Reinforcement Algorithms**, **Neural Network**, **CV**, **Kernel Programming**, **Computer Graphics**
+  Proficient Technologies: **Database**[MySQL, MongoDB], **Web Framework**[ReactJs, Spring, Django, ExpressJs], Cloud Computing[Amazon Web Services (**AWS**), Alibaba Cloud], Tools[Linux, **Git**, **DevOps**]
