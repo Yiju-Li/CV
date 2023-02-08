@@ -28,7 +28,7 @@ Sep 2020 - current
 - Agile methodologies: Scrum, Kanban
 
 ## Hardware Engineering Project
-*For a comprehensive understanding of my professional endeavors, I invite you to visit my website at [YijuLi.info](https://yijuli.info), where more projects are available for review.*
+*For a comprehensive understanding of my professional endeavors, I invite you to visit my website at [YijuLi.info/Projects](https://yijuli.info/projects), where more projects are available for review.*
 ### MIPS-inspired Microcontroller Design
 - Implemented a MIPS-inspired Instruction Set Architecture (ISA) featuring 9-bit instruction length and 16 registers.
 - Created a highly efficient and effective assembler program to translate human-readable assembly code into machine code in accordance with the ISA specification.
