@@ -6,13 +6,13 @@
 
 Dear Hiring Manager,
 
-I am writing to apply for the Software Engineer Intern position at Zuora. As a student pursuing a dual degree in Computer Engineering and Mathematics at the University of California, San Diego, I am eager to bring my technical skills and passion for software development to the team at Zuora.
+I am writing to apply for the Software Engineer Intern position at Spirent Communications. As a student majoring in Computer Engineering and Mathematics at the University of California, San Diego, I am excited to bring my skills and enthusiasm to your team.
 
-With coursework that has emphasized programming languages, database management, and software engineering, I have developed a strong foundation in software development methodologies and techniques. I am particularly interested in the opportunity to work with databases and databases-related technologies, as I have always been fascinated by the challenge of organizing, storing and retrieving large amounts of data in an efficient manner.
+I have a strong foundation in computer science, including experience in programming languages such as Java, C++, and Python. I have also developed a keen understanding of software development methodologies, data structures, and algorithms through various academic projects and coursework.
 
-I am confident that my background, enthusiasm and technical skills would make me a valuable addition to the Zuora team. I am eager to bring my passion for software development to the table, and I believe that my education, combined with my strong work ethic and commitment to excellence, will enable me to make a meaningful contribution to your team.
+At Spirent, I am drawn to the company's focus on delivering innovative solutions for network and application performance testing. I am eager to contribute my technical skills and learn from experienced professionals in the industry. I am confident that my strong problem-solving skills, attention to detail, and ability to work in a fast-paced environment would make me a valuable asset to your team.
 
-Thank you for considering my application. I look forward to the opportunity to discuss my qualifications further and to learn more about the Software Engineer Intern role at Zuora.
+Thank you for considering my application. I look forward to the opportunity to discuss my qualifications further and how I can contribute to the success of Spirent Communications.
 
 Sincerely,
 Yiju Li
