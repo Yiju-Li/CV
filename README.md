@@ -4,6 +4,8 @@
 
 *Note: This portfolio offers a comprehensive examination of my professional background and accomplishments. For a succinct overview of my software engineering qualifications, please refer to my [standard software engineering resume](resume_software). For a clear summary of my hardware engineering qualifications, please refer to my [standard hardware engineering resume](resume_hardware).*
 
+*For academic inquiries, please visit the following [website](./math).*
+
 As a student pursuing a dual degree in Computer Engineering and Applied Mathematics at the University of California, San Diego, I have gained a thorough understanding of software and hardware development. My education has been enriched through internships at companies such as Cloudgame and Ubtech, where I contributed as a software engineer intern, focusing on front-end development projects using React and CSS.
 
 During my internship at Shengmu Life Tech, I had the opportunity to contribute to the development of apps on the Wechat platform, utilizing WXHL and JavaScript. My responsibilities included creating and implementing new features, ensuring app stability and performance, and working closely with the team to meet the business requirements.Additionally, I was involved in developing dynamic and user-friendly apps for the Android platform, utilizing my Java and Android SDK skills. This experience provided me with a solid foundation in app development, from design to deployment, and a deep understanding of the development process and the importance of collaboration and communication in software development.
