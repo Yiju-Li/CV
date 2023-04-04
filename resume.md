@@ -8,9 +8,7 @@ As a dual-degree candidate in Computer Engineering and Applied Mathematics at UC
 
 ## Education
 Bachelor of Science in Computer Engineering; Bachelor of Science in Applied Mathematics(Dual Degree)  
-<pre>
-Sep 2020 - Jun 2024(Expected)              University of California, San Diego  
-</pre>
+Sep 2020 - Jun 2024(Expected)            University of California, San Diego  
 
 ## Professional Experience
 ### Electric Engineer Intern
