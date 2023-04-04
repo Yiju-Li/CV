@@ -17,27 +17,25 @@ Sep 2020 - Jun 2024(Expected)
 Vigitron, San Diego, California  
 2023 Spring(current), 12 weeks
 
-Designing and assembling PCBs, participating in manufacturing and testing, as well as developing router firmware using C and assembly language are among my areas of expertise.
+Designing and assembling PCBs, participating in manufacturing and testing, as well as developing router firmware using C and assembly language.
 
 
 ### Software Engineer Intern
 Shengmu Life, Chengdu, China  
 2022 Summer, 10 weeks
-- Developed Wechat apps with WXHL and JavaScript, including feature creation and app stability/performance assurance.
-- Collaborated on dynamic, user-friendly Android apps using Java and Android SDK, meeting business requirements.
+
+Developed a special web application with HTML and pure JavaScript, including feature creation and app stability/performance assurance; Collaborated on dynamic, user-friendly Android apps using Java and Android SDK.
 
 ### Software Engineer Intern
 UBTech, Shenzhen, China  
 2021 Summer, 8 weeks
-- Developed a web-application, utilizing JavaScript and React to enhance the product's functionality and user experience.
-- Modified components in the programming interface to make it more approachable and accessible, particularly for young-aged children.
-- Improved the logistics of the programming process to simplify the user experience, making it easier for individuals of all ages to understand and operate the system.
+-
+Developed a web-application, utilizing JavaScript and React; Participated in UX design to make product more approachable and accessible, particularly for young-aged users and improve the logistics to simplify the User Procedure.
 
 ### Quality Assurance (QA) Engineer Intern
 CloudGame, Beijing, China  
 2020 Summer, 10 weeks
-- Designed and executed test plans, identified and reported software bugs, and worked closely with the development team to ensure a seamless user experience for the end-users.
-- Performed pressure tests to evaluate the stability and reliability of the gaming products under heavy usage conditions.
+Designed and executed test plans, identified and reported software bugs, and worked closely with the development team to ensure a seamless user experience for the end-users; Designed pressure tests to evaluate the stability and reliability of the gaming products under heavy usage conditions.
 
 ## Technical Skills
 - Software Related
