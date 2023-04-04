@@ -14,8 +14,8 @@ Sep 2020 - Jun 2024(Expected)
 
 ## Professional Experience
 ### Electric Engineer Intern
-- Vigitron, San Diego, California  
-- 2023 Spring(current), 12 weeks
+Vigitron, San Diego, California  
+2023 Spring(current), 12 weeks
 - Designing and assembling PCBs, participating in manufacturing and testing, as well as developing router firmware using C and assembly language are among my areas of expertise.
 
 
