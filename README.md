@@ -48,5 +48,14 @@ CloudGame, Beijing, China
   - **EDA tools**: Modelsim(Questa), Quartus
 
 
+## Recent Projects
+- A **Full-Stack Web Application** for Movie Review and Evaluation, in a team of 10.
+- Inspired by **Microsoft Suphx**: Machine Agent for Incomplete Information Competition
+- A Customized design of a 11-bits, multi-purpose **CPU**, with an **Assemblr** written in C.
 
+## Recent Contributions and Awards
+- Flarum(An LAMP forum platform) extentions: User tag; Advanced serach; Weather Plugins
+- Wiki Education Dashboard: use Rspec for testing and fix front-end in React. 
+- Autonomous vehicle motion forecasting challenge on Kaggle: Top 5%.
+- University Award: Provost honors
 
