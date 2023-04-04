@@ -29,7 +29,7 @@ Developed a special web application with HTML and pure JavaScript, including fea
 ### Software Engineer Intern
 UBTech, Shenzhen, China  
 2021 Summer, 8 weeks
--
+
 Developed a web-application, utilizing JavaScript and React; Participated in UX design to make product more approachable and accessible, particularly for young-aged users and improve the logistics to simplify the User Procedure.
 
 ### Quality Assurance (QA) Engineer Intern
