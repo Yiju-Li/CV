@@ -1,6 +1,8 @@
 # Yiju Li
 
-[YijuLi.career@gmail.com](mailto:YijuLi.career@gmail.com), [(518)-258-3650](tel:5182583650)
+[YijuLi.career@gmail.com](mailto:YijuLi.career@gmail.com), [(518)-258-3650](tel:5182583650), [My website](https://yijuli.info)
+
+*Last Revised: 2023/04/01. To access my latest resume, please click this [link](https://yijuli.info/resume.pdf).* 
 
 As a dual-degree candidate in Computer Engineering and Applied Mathematics at UC San Diego, I possess strong skills in software/hardware development and theoretical computer science. My math background and problem-solving abilities allow me to approach complex problems with ease. Additionally, my communication skills and commitment to high-quality work make me a strong candidate for engineering roles.
 
