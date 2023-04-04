@@ -6,8 +6,8 @@ As a dual-degree candidate in Computer Engineering and Applied Mathematics at UC
 
 ## Education
 Bachelor of Science in Computer Engineering  
-Bachelor of Science in Applied Mathematics
-University of California, San Diego
+Bachelor of Science in Applied Mathematics  
+University of California, San Diego  
 Sep 2020 - Jun 2024(Expected)
 
 ## Professional Experience
