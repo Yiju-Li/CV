@@ -7,34 +7,29 @@
 As a dual-degree candidate in Computer Engineering and Applied Mathematics at UC San Diego, I possess strong skills in software/hardware development and theoretical computer science. My math background and problem-solving abilities allow me to approach complex problems with ease. Additionally, my communication skills and commitment to high-quality work make me a strong candidate for engineering roles.
 
 ## Education
-Bachelor of Science in Computer Engineering  
-Bachelor of Science in Applied Mathematics  
-University of California, San Diego  
-Sep 2020 - Jun 2024(Expected)
+Bachelor of Science in Computer Engineering; Bachelor of Science in Applied Mathematics(Dual Degree)  
+University of California, San Diego  Sep 2020 - Jun 2024(Expected)
 
 ## Professional Experience
 ### Electric Engineer Intern
 Vigitron, San Diego, California  
-2023 Spring(current), 12 weeks
-
+2023 Spring(current), 12 weeks  
 Designing and assembling PCBs, participating in manufacturing and testing, as well as developing router firmware using C and assembly language.
 
 
 ### Software Engineer Intern
 Shengmu Life, Chengdu, China  
-2022 Summer, 10 weeks
-
+2022 Summer, 10 weeks  
 Developed a special web application with HTML and pure JavaScript, including feature creation and app stability/performance assurance; Collaborated on dynamic, user-friendly Android apps using Java and Android SDK.
 
 ### Software Engineer Intern
 UBTech, Shenzhen, China  
-2021 Summer, 8 weeks
-
+2021 Summer, 8 weeks  
 Developed a web-application, utilizing JavaScript and React; Participated in UX design to make product more approachable and accessible, particularly for young-aged users and improve the logistics to simplify the User Procedure.
 
 ### Quality Assurance (QA) Engineer Intern
 CloudGame, Beijing, China  
-2020 Summer, 10 weeks
+2020 Summer, 10 weeks  
 Designed and executed test plans, identified and reported software bugs, and worked closely with the development team to ensure a seamless user experience for the end-users; Designed pressure tests to evaluate the stability and reliability of the gaming products under heavy usage conditions.
 
 ## Technical Skills
