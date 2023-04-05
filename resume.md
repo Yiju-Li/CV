@@ -7,7 +7,8 @@
 As a dual-degree candidate in Computer Engineering and Applied Mathematics at UC San Diego, I possess strong skills in software/hardware development and theoretical computer science. My math background and problem-solving abilities allow me to approach complex problems with ease. Additionally, my communication skills and commitment to high-quality work make me a strong candidate for engineering roles.
 
 ## Education
-Bachelor of Science in Computer Engineering; Bachelor of Science in Applied Mathematics(Dual Degree)  
+B.S. in Computer Engineering;       B.S. in Applied Mathematics(Dual Degree)  
+Minor in Human Biology;             Minor in Data Science(Double Minors)
 Sep 2020 - Jun 2024(Expected)       University of California, San Diego  
 
 ## Professional Experience
