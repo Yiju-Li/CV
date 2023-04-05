@@ -50,12 +50,4 @@ Designed and executed test plans, identified and reported software bugs, and wor
   - **EDA tools**: Modelsim(Questa), Quartus
 
 
-## Recent Projects, Contributions and Awards
-- Project of a **Full-Stack Web Application** for Movie Review and Evaluation, in a team of 10.
-- Project inspired by **Microsoft Suphx**: Machine Agent for Incomplete Information Competition
-- Project of a Customized design of a 11-bits, multi-purpose **CPU**, with an **Assemblr** written in C.
-- Contribution to Flarum(An LAMP forum platform) by **releasing extentions**: User tag; Advanced serach; Weather Plugins
-- Constribution to Wiki Education Dashboard by **continuous maintenance**: use Rspec for testing and fix front-end in React. 
-- Competition Award of Autonomous vehicle motion forecasting challenge on Kaggle: Top 5%.
-- University Award: Provost honors
 
