@@ -8,7 +8,7 @@ As a dual-degree candidate in Computer Engineering and Applied Mathematics at UC
 
 ## Education
 B.S. in Computer Engineering;       B.S. in Applied Mathematics(Dual Degree)  
-Minor in Human Biology;             Minor in Data Science(Double Minors)  
+Minor in Human Biology;           Minor in Data Science(Double Minors)  
 Sep 2020 - Jun 2024(Expected)       University of California, San Diego  
 
 ## Professional Experience
