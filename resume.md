@@ -16,6 +16,10 @@ Vigitron, San Diego, California
 2023 Spring(current), 12 weeks  
 Designing and assembling PCBs, participating in manufacturing and testing, as well as developing router firmware using C and assembly language.
 
+### Research Assistant(Remote)
+CPMG, Columbia University, New York  
+2022 Winter, 12 weeks
+Joined a start-up team to work on projects related to precision analytics in the field of genomics; Implemented a full-stack application that uses simulated clinical and genetic data for research-oriented medical professionals.
 
 ### Software Engineer Intern
 Shengmu Life, Chengdu, China  
