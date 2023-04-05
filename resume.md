@@ -18,7 +18,7 @@ Designing and assembling PCBs, participating in manufacturing and testing, as we
 
 ### Research Assistant(Remote)
 CPMG, Columbia University, New York  
-2022 Winter, 12 weeks
+2022 Winter, 12 weeks  
 Joined a start-up team to work on projects related to precision analytics in the field of genomics; Implemented a full-stack application that uses simulated clinical and genetic data for research-oriented medical professionals.
 
 ### Software Engineer Intern
