@@ -15,28 +15,23 @@ Minors in Human Biology and Data Science
          
 
 ## Experience
-- Electric Engineer Intern
-Vigitron, San Diego, California  
+- Electric Engineer Intern @ Vigitron, San Diego, California  
 2023 Spring(current), 12 weeks  
  Router architecture; Firmware support; Transferring algorithms.
 
-### Research Assistant
-CPMG, Columbia University, New York  
+- Research Assistant @ CPMG, Columbia University, New York  
 2022 Winter, 12 weeks  
 Genomic algorithms; DNN (Deep Neural Network).
 
-### Software Engineer Intern
-Shengmu Life, Chengdu, China  
+- Software Engineer Intern @ Shengmu Life, Chengdu, China  
 2022 Summer, 10 weeks  
 Web development; Data cleaning.
 
-### Software Engineer Intern
-UBTech, Log Angeles, California  
+- Software Engineer Intern @ UBTech, Log Angeles, California  
 2021 Summer, 8 weeks  
 UI/UX research; Frontend development.
 
-### Quality Assurance (QA) Engineer Intern
-CloudGame, Beijing, China  
+- Quality Assurance (QA) Engineer Intern @ CloudGame, Beijing, China  
 2020 Summer, 10 weeks  
 Test automation; Low-latency algorithms.
 
