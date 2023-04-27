@@ -31,7 +31,7 @@ Web development; Data cleaning.
 2021 Summer, 8 weeks  
 UI/UX research; Frontend development.
 
-- Quality Assurance (QA) Engineer Intern @ CloudGame, Beijing, China  
+- Quality Assurance (QA) Engineer Intern @ GloudGame, Beijing, China  
 2020 Summer, 10 weeks  
 Test automation; Low-latency algorithms.
 
