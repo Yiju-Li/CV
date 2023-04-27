@@ -1,3 +1,5 @@
+# Yiju's Statement of Purpose
+
 Dear Admissions Committee,
 
 I am writing to express my interest in enrolling in the graduate school of engineering at Kyoto University. As an accomplished dual-degree candidate in Computer Engineering and Applied Mathematics at UC San Diego, I have developed a strong foundation in both software and hardware development, as well as theoretical computer science.
