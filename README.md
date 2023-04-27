@@ -4,7 +4,7 @@
 
 *Last Revised: 2023/04/01. To access my latest resume, please click this [link](https://yijuli.info/resume.pdf).* 
 
-As a dual-degree candidate in Computer Engineering and Applied Mathematics at UC San Diego, I possess strong skills in software/hardware development and theoretical computer science. My math background and problem-solving abilities allow me to approach complex problems with ease. Additionally, my communication skills and commitment to high-quality work make me a strong candidate for everything.
+As a dual-degree candidate in Computer Engineering and Applied Mathematics at UC San Diego, I possess strong skills in software/hardware development and theoretical computer science. My math background and problem-solving abilities allow me to approach complex problems with ease. 
 
 ## Education
 University of California, San Diego  
@@ -41,13 +41,16 @@ CloudGame, Beijing, China
 Test automation; Low-latency algorithms.
 
 ## Skills
+- Math Related:
+  - Applied: Search algorithms; Reinforcement learning algorithms; Optimization/approximation algorithms.
+  - Theories: Real/Complex analysis; Differential geometry; combinatorics.
 - CS Related
   - Programming languages: Java; Python; C++ (GLSL related); C; JavaScript; Web frameworks(React, Spring, Express, etc.). 
   - Topic Focused: Neural network; Computer vision; Kernel programming; Computer graphics; Database;
 - EE Related
   - HDL/Tools: SystemVerilog; VHDL; Modelsim(Questa); Quartus
   - Topics focused: Digital electronics and circuits; Microcontroller/microelectronic system design; Computer (CPU) architecture.
-- Math Related:
-  - Applied: Search algorithms; Reinforcement learning algorithms; Optimization/approximation algorithms.
-  - Theories: Real/Complex analysis; Differential geometry; combinatorics.
+- Others
+  - Biology related: DNA-FA algorithms; DNA structure; Molecular genetics; Population genetics.
+  - DS related: Data cleaning; Data visualization; Statistical analysis(Big Data).
 
