@@ -15,7 +15,7 @@ Minors in Human Biology and Data Science
          
 
 ## Experience
-### Electric Engineer Intern
+- Electric Engineer Intern
 Vigitron, San Diego, California  
 2023 Spring(current), 12 weeks  
  Router architecture; Firmware support; Transferring algorithms.
