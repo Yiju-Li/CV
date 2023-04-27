@@ -12,5 +12,5 @@ While I have not yet decided on a specific research plan, my goal is to graduate
 
 Thank you for considering my application. I look forward to the opportunity to pursue my graduate studies at Kyoto University.
 
-Sincerely,
+Sincerely,  
 Yiju Li
