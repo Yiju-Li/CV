@@ -8,8 +8,9 @@ As a dual-degree candidate in Computer Engineering and Applied Mathematics at UC
 
 ## Education
 University of California, San Diego  
+Provost honors  
 Sep. 2020 - Aug. 2023(Expected)  
-B.S. in Computer Engineering(Provost honors)  
+B.S. in Computer Engineering 
 B.S. in Applied Mathematics  
 Minors in Human Biology and Data Science
          
