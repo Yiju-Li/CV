@@ -4,7 +4,7 @@
 
 *Last Revised: 2023/04/01. To access my latest resume, please click this [link](https://yijuli.info/resume.pdf).* 
 
-As a dual-degree candidate in Computer Engineering and Applied Mathematics at UC San Diego, I possess strong skills in software/hardware development and theoretical computer science. My math background and problem-solving abilities allow me to approach complex problems with ease. 
+As a dual-degree candidate in Computer Engineering and Applied Mathematics at UC San Diego, I possess strong skills in software/hardware development and theoretical computer science. Additionally, my math background and problem-solving abilities allow me to approach complex problems with ease. 
 
 ## Education
 University of California, San Diego  
