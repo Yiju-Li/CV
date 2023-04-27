@@ -2,7 +2,7 @@
 
 [yil125@ucsd.edu](mailto:yil125@ucsd.edu), [(518)-258-3650](tel:5182583650), [YijuLi.info](https://yijuli.info)
 
-*Last Revised: 2023/04/01. To access my latest resume, please click this [link](https://yijuli.info/resume.pdf).* 
+*Last Revised: 2023/04/01. To access my latest CV, please click this [link](https://yijuli.info/CV.pdf).* 
 
 As a dual-degree candidate in Computer Engineering and Applied Mathematics at UC San Diego, I possess strong skills in software/hardware development and theoretical computer science. Additionally, my math background and problem-solving abilities allow me to approach complex problems with ease. 
 
