@@ -1,53 +1,53 @@
 # Yiju Li
 
-[YijuLi.career@gmail.com](mailto:YijuLi.career@gmail.com), [(518)-258-3650](tel:5182583650), [My website](https://yijuli.info)
+[yil125@ucsd.edu](mailto:yil125@ucsd.edu), [(518)-258-3650](tel:5182583650), [YijuLi.info](https://yijuli.info)
 
 *Last Revised: 2023/04/01. To access my latest resume, please click this [link](https://yijuli.info/resume.pdf).* 
 
-As a dual-degree candidate in Computer Engineering and Applied Mathematics at UC San Diego, I possess strong skills in software/hardware development and theoretical computer science. My math background and problem-solving abilities allow me to approach complex problems with ease. Additionally, my communication skills and commitment to high-quality work make me a strong candidate for engineering roles.
+As a dual-degree candidate in Computer Engineering and Applied Mathematics at UC San Diego, I possess strong skills in software/hardware development and theoretical computer science. My math background and problem-solving abilities allow me to approach complex problems with ease. Additionally, my communication skills and commitment to high-quality work make me a strong candidate for everything.
 
 ## Education
 University of California, San Diego  
-Sep 2020 - Jun 2024(Expected)  
-**Degrees**: B.S. in Computer Engineering; B.S. in Applied Mathematics  
-**Minors**: Human Biology; Data Science
+Sep. 2020 - Aug. 2023(Expected)  
+B.S. in Computer Engineering(Provost honors)  
+B.S. in Applied Mathematics  
+Minors in Human Biology and Data Science
          
 
-## Professional Experience
+## Experience
 ### Electric Engineer Intern
 Vigitron, San Diego, California  
 2023 Spring(current), 12 weeks  
-Designing and assembling PCBs, participating in manufacturing and testing, as well as developing router firmware using C and assembly language.
+ Router architecture; Firmware support; Transferring algorithms.
 
-### Research Assistant(Remote)
+### Research Assistant
 CPMG, Columbia University, New York  
 2022 Winter, 12 weeks  
-Joined a start-up team to work on projects related to precision analytics in the field of genomics; Implemented a full-stack application that uses simulated clinical and genetic data for research-oriented medical professionals.
+Genomic algorithms; DNN (Deep Neural Network).
 
 ### Software Engineer Intern
 Shengmu Life, Chengdu, China  
 2022 Summer, 10 weeks  
-Developed a special web application with HTML and pure JavaScript, including feature creation and app stability/performance assurance; Collaborated on dynamic, user-friendly Android apps using Java and Android SDK.
+Web development; Data cleaning.
 
 ### Software Engineer Intern
-UBTech, Shenzhen, China  
+UBTech, Log Angeles, California  
 2021 Summer, 8 weeks  
-Developed a web-application, utilizing JavaScript and React; Participated in UX design to make product more approachable and accessible, particularly for young-aged users and improve the logistics to simplify the User Procedure.
+UI/UX research; Frontend development.
 
 ### Quality Assurance (QA) Engineer Intern
 CloudGame, Beijing, China  
 2020 Summer, 10 weeks  
-Designed and executed test plans, identified and reported software bugs, and worked closely with the development team to ensure a seamless user experience for the end-users; Designed pressure tests to evaluate the stability and reliability of the gaming products under heavy usage conditions.
+Test automation; Low-latency algorithms.
 
-## Technical Skills
-- Software Related
-  - Programming languages: **Java**, **Python**, C++(**GLSL**), **C**, **JavaScript**, **HTML**(WXML), **CSS**
-  - Topics Focused: Advanced Data Structures and Advanced Algorithms, **Reinforcement Algorithms**, **Neural Network**, **CV**, **Kernel Programming**, **Computer Graphics**
-  Proficient Technologies: **Database**[MySQL, MongoDB], **Web Framework**[ReactJs, Spring, Django, ExpressJs], Cloud Computing[Amazon Web Services (**AWS**), Alibaba Cloud], Tools[Linux, **Git**, **DevOps**]
-- Hardware Related
-  - Topics Focused: **Digital Electronics and Circuit**, **Microcontroller/Microelectronic System Design**
-  - **HDL**: SystemVerilog, VHDL
-  - **EDA tools**: Modelsim(Questa), Quartus
-
-
+## Skills
+- CS Related
+  - Programming languages: Java; Python; C++ (GLSL related); C; JavaScript; Web frameworks(React, Spring, Express, etc.). 
+  - Topic Focused: Neural network; Computer vision; Kernel programming; Computer graphics; Database;
+- EE Related
+  - HDL/Tools: SystemVerilog; VHDL; Modelsim(Questa); Quartus
+  - Topics focused: Digital electronics and circuits; Microcontroller/microelectronic system design; Computer (CPU) architecture.
+- Math Related:
+  - Applied: Search algorithms; Reinforcement learning algorithms; Optimization/approximation algorithms.
+  - Theories: Real/Complex analysis; Differential geometry; combinatorics.
 
