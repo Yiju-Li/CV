@@ -1,6 +1,6 @@
 # Yiju Li
 
-[yil125@ucsd.edu](mailto:yil125@ucsd.edu), [(518)-258-3650](tel:5182583650), [YijuLi.info](https://yijuli.info)
+[yil125@ucsd.edu](mailto:yil125@ucsd.edu), [+1 (518)-258-3650](tel:+15182583650), [YijuLi.info](https://yijuli.info)
 
 *Last Revised: 2023/04/01. To access my latest CV, please click this [link](https://yijuli.info/CV.pdf).* 
 
