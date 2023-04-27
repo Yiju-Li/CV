@@ -42,9 +42,9 @@ Test automation; Low-latency algorithms.
   - Theories: Real/Complex analysis; Differential geometry; combinatorics.
 - CS Related
   - Programming languages: Java; Python; C++ (GLSL related); C; JavaScript; Web frameworks(React, Spring, Express, etc.). 
-  - Topic Focused: Neural network; Computer vision; Kernel programming; Computer graphics; Database;
+  - Topic Focused: Neural network; Computer vision; Kernel programming; Computer graphics; Database.
 - EE Related
-  - HDL/Tools: SystemVerilog; VHDL; Modelsim(Questa); Quartus
+  - HDL/Tools: SystemVerilog; VHDL; Modelsim(Questa); Quartus.
   - Topics focused: Digital electronics and circuits; Microcontroller/microelectronic system design; Computer (CPU) architecture.
 - Others
   - Biology related: DNA-FA algorithms; DNA structure; Molecular genetics; Population genetics.
