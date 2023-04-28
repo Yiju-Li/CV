@@ -40,16 +40,16 @@ UI/UX research; Frontend development.
 Test automation; Low-latency algorithms.
 
 ## Area of Study
-- Math Theories
+- Math Theories  
 Real/Complex analysis; Differential geometry; Combinatorics.
-- Math Applications
+- Math Applications  
 Search algorithms; Reinforcement learning algorithms; Optimization/approximation algorithms.
-- CS Related
+- CS Related  
 Neural network; Computer vision; Kernel programming; Computer graphics; Database; Web development; Desktop software.
-- EE Related
+- EE Related  
 Digital electronics and circuits; HDL&Tools; Microcontroller/microelectronic system design; Computer(CPU) architecture.
-- DS related
+- DS related  
 Data cleaning; Data visualization; Statistical analysis(Big Data).
-- Biology related
+- Biology related  
 DNA-FA algorithms; DNA structure; Molecular genetics; Population genetics.
 
