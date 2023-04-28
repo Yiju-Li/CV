@@ -7,18 +7,18 @@
 As a dual-degree candidate in Computer Engineering and Applied Mathematics at UC San Diego, I possess strong skills in software/hardware development and theoretical computer science. Additionally, my math background and problem-solving abilities allow me to approach complex problems with ease. 
 
 ## Education
-- University of California, San Diego(California, USA)  
+- [University of California, San Diego](https://www.ucsd.edu)(California, USA)  
 Provost honors    
 B.S. in Computer Engineering  
 B.S. in Applied Mathematics  
 Minors in Human Biology and Data Science  
 2020 - 2023(Expected)
 
-- Albany Academy(New York, USA)   
+- [Albany Academy](https://www.albanyacademies.org)(New York, USA)   
 Cum Laude  
 2017 - 2020  
 
-- Chengdu Foreign Languages School(Sichuan, China)   
+- [Chengdu Foreign Languages School](http://www.cfls.net.cn)(Sichuan, China)   
 2008 - 2017  
 
 ## Experience
