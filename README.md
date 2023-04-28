@@ -39,17 +39,17 @@ UI/UX research; Frontend development.
 2020 Summer, 10 weeks  
 Test automation; Low-latency algorithms.
 
-## Skills
-- Math Related:
-  - Applied: Search algorithms; Reinforcement learning algorithms; Optimization/approximation algorithms.
-  - Theories: Real/Complex analysis; Differential geometry; combinatorics.
+## Area of Study
+- Math Theories
+Real/Complex analysis; Differential geometry; Combinatorics.
+- Math Applications
+Search algorithms; Reinforcement learning algorithms; Optimization/approximation algorithms.
 - CS Related
-  - Programming languages: Java; Python; C++ (GLSL related); C; JavaScript; Web frameworks(React, Spring, Express, etc.). 
-  - Topic Focused: Neural network; Computer vision; Kernel programming; Computer graphics; Database.
+Neural network; Computer vision; Kernel programming; Computer graphics; Database; Web development; Desktop software.
 - EE Related
-  - HDL/Tools: SystemVerilog; VHDL; Modelsim(Questa); Quartus.
-  - Topics focused: Digital electronics and circuits; Microcontroller/microelectronic system design; Computer (CPU) architecture.
-- Others
-  - Biology related: DNA-FA algorithms; DNA structure; Molecular genetics; Population genetics.
-  - DS related: Data cleaning; Data visualization; Statistical analysis(Big Data).
+Digital electronics and circuits; HDL&Tools; Microcontroller/microelectronic system design; Computer(CPU) architecture.
+- DS related
+Data cleaning; Data visualization; Statistical analysis(Big Data).
+- Biology related
+DNA-FA algorithms; DNA structure; Molecular genetics; Population genetics.
 
