@@ -14,7 +14,7 @@ B.S. in Computer Engineering
 B.S. in Applied Mathematics  
 Minors in Human Biology and Data Science
 
-- Albany Academy, New York
+- Albany Academy, New York  
 Cum Laude  
 Class of 2020
 
