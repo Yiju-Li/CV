@@ -9,14 +9,14 @@ As a dual-degree candidate in Computer Engineering and Applied Mathematics at UC
 ## Education
 - University of California, San Diego  
 Provost honors  
-Sep. 2020 - Aug. 2023(Expected)  
+2020 - 2023(Expected)  
 B.S. in Computer Engineering  
 B.S. in Applied Mathematics  
 Minors in Human Biology and Data Science
 
 - Albany Academy, New York  
 Cum Laude  
-Class of 2020
+2017 - 2020  
 
 ## Experience
 - Electric Engineer Intern @ Vigitron, San Diego, California  
