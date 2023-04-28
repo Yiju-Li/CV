@@ -7,13 +7,16 @@
 As a dual-degree candidate in Computer Engineering and Applied Mathematics at UC San Diego, I possess strong skills in software/hardware development and theoretical computer science. Additionally, my math background and problem-solving abilities allow me to approach complex problems with ease. 
 
 ## Education
-University of California, San Diego  
+- University of California, San Diego  
 Provost honors  
 Sep. 2020 - Aug. 2023(Expected)  
 B.S. in Computer Engineering  
 B.S. in Applied Mathematics  
 Minors in Human Biology and Data Science
-         
+
+- Albany Academy, New York
+Cum Laude  
+Class of 2020
 
 ## Experience
 - Electric Engineer Intern @ Vigitron, San Diego, California  
