@@ -42,7 +42,7 @@ Test automation; Low-latency algorithms.
 - Math Theories  
 Real/Complex analysis; Differential geometry; Combinatorics.
 - Math Applications  
-Search algorithms; Reinforcement learning algorithms; Optimization/approximation algorithms.
+Search algorithms; Reinforcement learning algorithms; Optimization/approximation algorithms, Randomization and probability.
 - CS Related  
 Neural network; Computer vision; Kernel programming; Computer graphics; Database; Web development; Desktop software.
 - EE Related  
