@@ -2,24 +2,22 @@
 
 [yil125@ucsd.edu](mailto:yil125@ucsd.edu), [+1 (518)-258-3650](tel:+15182583650), [YijuLi.info](https://yijuli.info)
 
-*Last Edited: 2023 April 29th. To access my latest CV, please click this [link](https://yijuli.info/CV.pdf).* 
+*Website Last Updated@2023 June 12th. To access my latest CV, please click this [link](https://yijuli.info/CV.pdf).* 
 
-As a dual-degree candidate in Computer Engineering and Applied Mathematics at UC San Diego, I possess strong skills in software/hardware development and theoretical computer science. Additionally, my math background and problem-solving abilities allow me to approach complex problems with ease. 
+As a mathematics enthusiast with a background in engineering, my aspirations are set on becoming a scientist in the future.
 
-## Education
-- [University of California, San Diego](https://www.ucsd.edu)(California, USA)  
-Provost honors    
-B.S. in Computer Engineering  
-B.S. in Applied Mathematics  
-Minors in Human Biology and Data Science  
-2020 - 2023(Expected)
+## A Mathematics Enthusiast
+- Love for Mathematics start from mathematics competition in my early stage, even though failed the Putnam Comptetition in college.
+- Love later built by the purility of playing around definitions in this field, even though later found out that's probably the only thing I could do: Learning already-exists Definitions and Theorems rather than creating new ones.
+- Love is maintained and ensured by the belief I hold that playing around math could make my brain stay logic and be able to find out inner-connection between things, even though it's just a belief not a scientif fact.
 
-- [Albany Academy](https://www.albanyacademies.org)(New York, USA)   
-Cum Laude  
-2017 - 2020  
+## A Background in engineering
+- From Education: I am proud to tell UCSD(w 2nd degree in math)
+- From Internships: QA(Company-Year-Time )
 
-- [Chengdu Foreign Languages School](http://www.cfls.net.cn)(Sichuan, China)   
-2008 - 2017  
+## A Future Scientist
+
+
 
 ## Experience
 - Electric Engineer Intern @ Vigitron, San Diego, California  
