@@ -4,7 +4,11 @@
 
 *Website Last Updated@2023 June 12th. To access my latest CV, please click this [link](https://yijuli.info/CV.pdf).* 
 
-**As a mathematics enthusiast with a background in engineering, my aspirations are set on becoming a scientist in the future.**
+---
+
+<font size=5>*As a mathematics enthusiast with a background in engineering, my aspirations are set on becoming a scientist in the future.*</font>
+
+---
 
 ## A Mathematics Enthusiast
 -  My love with mathematics started with winning those math competitions[^1] during my early days, though I did stumble in Putnam[^2] 3 times[^3] in a row. 
