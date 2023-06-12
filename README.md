@@ -6,7 +6,7 @@
 
 ---
 
-<font size=5>*As a mathematics enthusiast with a background in engineering, my aspirations are set on becoming a scientist in the future.*</font>
+<font size=5>*As a **[mathematics enthusiast](#a-mathematics-enthusiast)** with a **[background in engineering](#a-background-in-engineering)**, my aspirations are set on becoming a **[scientist in the future](#a-future-scientist)**.*</font>
 
 ---
 
