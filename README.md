@@ -1,12 +1,15 @@
 # Yiju Li
 
-[yil125@ucsd.edu](mailto:yil125@ucsd.edu), [+1 (518)-258-3650](tel:+15182583650), [YijuLi.info](https://yijuli.info)
+Undergraduate Student
+University of California, San Diego
+
+[yil125@ucsd.edu](mailto:yil125@ucsd.edu)
 
 *Website Last Updated@2023 June 12th. To access my latest CV, please click this [link](https://yijuli.info/CV.pdf).* 
 
 ---
 
-<font size=5>*As a **[mathematics enthusiast](#a-mathematics-enthusiast)** with a **[background in engineering](#a-background-in-engineering)**, my aspirations are set on becoming a **[scientist in the future](#a-future-scientist)**.*</font>
+*As a **[mathematics enthusiast](#a-mathematics-enthusiast)** with a **[background in engineering](#a-background-in-engineering)**, my aspirations are set on becoming a **[scientist in the future](#a-future-scientist)**.*
 
 ---
 
