@@ -6,6 +6,8 @@ UC San Diego
 
 *To access my latest CV, please click this [link](https://yijuli.info/CV.pdf); To access all my publications, please click this [link](publications).* 
 
+**I am currently in search of mentors and research groups specializing in two areas: (A) AI-related topics and (B) human biology, drugs, and other aspects related to human health. If you are interested in learning more about me or wish to connect further, please feel free to contact me at yil125@ucsd.edu.**
+
 ---
 
 *I'm a **[mathematics enthusiast](#a-mathematics-enthusiast)** with a **[background in engineering](#a-background-in-engineering)**, and my aspirations are set on becoming a **[scientist in the future](#a-future-scientist)**.*
