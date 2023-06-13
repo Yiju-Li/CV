@@ -1,7 +1,7 @@
 # Yiju Li
 
 Undergraduate Student  
-UC San Diego
+UC San Diego  
 [yil125@ucsd.edu](mailto:yil125@ucsd.edu)
 
 *To access my latest CV, please click this [link](https://yijuli.info/CV.pdf); To access all my publications, please click this [link](publications).* 
