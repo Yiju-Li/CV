@@ -1,4 +1,4 @@
-# Yiju's Publications
+# Yiju's Papers
 
 ## Preprints & On-going Works
 - I am currently working on my **first review**, which talks about the use of machine learning techniques in bioinformatics field. I am targeting the journal Briefings in Bioinformatics and plan to submit my manuscript by the end of this summer. I anticipate its publication by the end of this year.
