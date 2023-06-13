@@ -24,7 +24,7 @@ UC San Diego
 
 ## A Future Scientist
 - My research interests are: (A) designing appropriate learning models and (B) applying them in engineering automation and other domains for good of society and scientific advancements.
-- I am currently working on my **first paper**, which focuses on utilizing Deep Neural Networks for prediction and classification of clinical problems using patients' genomic data. I am targeting the journal BMC Bioinformatics and plan to submit my manuscript by the end of this year. I anticipate its publication in early 2024.
+- I am currently working on my **first paper**, which focuses on utilizing Deep Neural Networks for prediction and classification of clinical problems using patients' genomic data, mentored by [Dawei Li](https://scholar.google.com/citations?user=iDfiYVAAAAAJ&hl=en). I am targeting the journal BMC Bioinformatics and plan to submit my manuscript by the end of this year. I anticipate its publication in early 2024.
 
 ---
 *You've reached the end of this page and this website was last updated at 2023 June 12th.*
