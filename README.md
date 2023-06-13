@@ -25,7 +25,7 @@ UC San Diego
 - I am currently working on my **first paper**, which focuses on utilizing Deep Neural Networks for prediction and classification of clinical problems using patients' genomic data. I am targeting the journal BMC Bioinformatics and plan to submit my manuscript by the end of this year. I anticipate its publication in early 2024.
 
 ---
-*You've reached the end of this page and this website Last Updated@2023 June 12th.*
+*You've reached the end of this page and this website was last updated at 2023 June 12th.*
 <br />
 <br />
 <br />
@@ -51,4 +51,3 @@ UC San Diego
 [^6]: I am currently pursuing a *B.S. Degree in Computer Engineering* from the Jacobs School of Engineering at UC San Diego. For those who may not be aware, I would like to proudly share that the Jacobs School of Engineering at UC San Diego is ranked **#1** on the West Coast for research expenditures and ranks among the **top 10** in computer engineering, according to USNews 2023.
 
 [^7]: I have interned as a *QA Engineer* for 10 weeks at GloudGame in 2020, as a *Software Engineer* for 8 weeks at UBTech in 2021, and for 10 weeks at Shengmu Life in 2022. Additionally, I interned as an *Electrical Engineer* for 12 weeks at Virgitron in 2023. I have a strong appreciation for the concept of creating a perfectly reliable product in this field, but after realizing the repetitive nature of engineering work, I want to pursue something that is more challenging and exciting.
-
