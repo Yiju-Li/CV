@@ -8,7 +8,7 @@ UC San Diego
 
 ---
 
-*As a **[mathematics enthusiast](#a-mathematics-enthusiast)** with a **[background in engineering](#a-background-in-engineering)**, my aspirations are set on becoming a **[scientist in the future](#a-future-scientist)**.*
+*I'm a **[mathematics enthusiast](#a-mathematics-enthusiast)** with a **[background in engineering](#a-background-in-engineering)**, and my aspirations are set on becoming a **[scientist in the future](#a-future-scientist)**.*
 
 
 
