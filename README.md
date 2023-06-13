@@ -4,7 +4,7 @@ Undergraduate Student
 UC San Diego
 [yil125@ucsd.edu](mailto:yil125@ucsd.edu)
 
-*To access my latest CV, please click this [link](https://yijuli.info/CV.pdf).* 
+*To access my latest CV, please click this [link](https://yijuli.info/CV.pdf); To access all my publications, please click this [link](publications).* 
 
 ---
 
@@ -21,7 +21,8 @@ UC San Diego
 - An Engineering Degree[^6] and couple Engineer Internships[^7].
 
 ## A Future Scientist
-
+- My research interests are: (A) designing appropriate learning models and (B) applying them in engineering automation and other domains for good of society and scientific advancements.
+- I am currently working on my **first paper**, which focuses on utilizing Deep Neural Networks for prediction and classification of clinical problems using patients' genomic data. I am targeting the journal BMC Bioinformatics and plan to submit my manuscript by the end of this year. I anticipate its publication in early 2024.
 
 [^1]: The term *math competitions* mentioned here pertains to those preparing participants for the International Mathematical Olympiad (IMO), from local matches held in a small city named Chengdu to the American Invitational Mathematics Examination (AIME). Winning IMO was my childhood dream, but I ended up losing the opportunity to join the Team China because of study abroad(probably won't be selected anyway) and somehow I can't join Team USA as a Chinese.
 
@@ -35,6 +36,6 @@ UC San Diego
 
 [^6]: I am currently pursuing a *B.S. Degree in Computer Engineering* from the Jacobs School of Engineering at UC San Diego. For those who may not be aware, I would like to proudly share that the Jacobs School of Engineering at UC San Diego is ranked **#1** on the West Coast for research expenditures and ranks among the **top 10** in computer engineering, according to USNews 2023.
 
-[^7]: I have interned as a *QA Engineer* for 10 weeks at GloudGame in 2020, as a *Software Engineer* for 8 weeks at UBTech in 2021, and for 10 weeks at Shengmu Life in 2022. Additionally, I interned as an *Electrical Engineer* for 12 weeks at Virgitron in 2023. 
+[^7]: I have interned as a *QA Engineer* for 10 weeks at GloudGame in 2020, as a *Software Engineer* for 8 weeks at UBTech in 2021, and for 10 weeks at Shengmu Life in 2022. Additionally, I interned as an *Electrical Engineer* for 12 weeks at Virgitron in 2023. I have a strong appreciation for the concept of creating a perfectly reliable product in this field, but after realizing the repetitive nature of engineering work, I want to pursue something that is more challenging and exciting.
 
 *Website Last Updated@2023 June 12th.*
