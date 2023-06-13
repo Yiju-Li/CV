@@ -10,7 +10,7 @@ UC San Diego
 
 *As a **[mathematics enthusiast](#a-mathematics-enthusiast)** with a **[background in engineering](#a-background-in-engineering)**, my aspirations are set on becoming a **[scientist in the future](#a-future-scientist)**.*
 
----
+
 
 ## A Mathematics Enthusiast
 - My love with mathematics started with winning those math competitions[^1] during my early days, though I did stumble in Putnam[^2] 3 years[^3] in a row. 
@@ -38,4 +38,6 @@ UC San Diego
 
 [^7]: I have interned as a *QA Engineer* for 10 weeks at GloudGame in 2020, as a *Software Engineer* for 8 weeks at UBTech in 2021, and for 10 weeks at Shengmu Life in 2022. Additionally, I interned as an *Electrical Engineer* for 12 weeks at Virgitron in 2023. I have a strong appreciation for the concept of creating a perfectly reliable product in this field, but after realizing the repetitive nature of engineering work, I want to pursue something that is more challenging and exciting.
 
-*Website Last Updated@2023 June 12th.*
+*You've reached the end of this page and this website Last Updated@2023 June 12th.*
+
+---
