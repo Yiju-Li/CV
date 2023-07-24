@@ -4,7 +4,7 @@ Undergraduate Student
 UC San Diego  
 [yil125@ucsd.edu](mailto:yil125@ucsd.edu)
 
-**This website is stopping updating and will be terminated in early 2024, my new personal website has migrated to [Yiju-li.com](https://yiju-li.com)**
+**The updates for this website will cease, and it will be discontinued in early 2024. My new personal website has now moved [Yiju-li.com](https://yiju-li.com)**
 
 *To access my latest CV, please click this [link](https://yijuli.info/CV.pdf); To access all my papers, please click this [link](papers).* 
 
