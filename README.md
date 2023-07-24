@@ -4,9 +4,10 @@ Undergraduate Student
 UC San Diego  
 [yil125@ucsd.edu](mailto:yil125@ucsd.edu)
 
+**This website is stopping updating and will be terminated in early 2024, my new personal website has migrated to [Yiju-li.com](https://yiju-li.com)**
+
 *To access my latest CV, please click this [link](https://yijuli.info/CV.pdf); To access all my papers, please click this [link](papers).* 
 
-**I am currently in search of mentors and research groups specializing in two areas: (A) AI-related topics and (B) human biology, drugs, and other aspects related to human health. If you are interested in learning more about me or wish to connect further, please feel free to contact me at yil125@ucsd.edu.**
 
 ---
 
@@ -49,6 +50,6 @@ UC San Diego
 
 [^5]: *League of Legends* is a popular video game. 
 
-[^6]: I am currently pursuing a *B.S. Degree in Computer Engineering* from the Jacobs School of Engineering at UC San Diego. For those who may not be aware, I would like to proudly share that the Jacobs School of Engineering at UC San Diego is ranked **#1** on the West Coast for research expenditures and ranks among the **top 10** in computer engineering, according to USNews 2023.
+[^6]: I am currently pursuing a *B.S. Degree in Computer Engineering* from the Jacobs School of Engineering at UC San Diego. 
 
 [^7]: I have interned as a *QA Engineer* for 10 weeks at GloudGame in 2020, as a *Software Engineer* for 8 weeks at UBTech in 2021, and for 10 weeks at S.Mu Life in 2022. Additionally, I interned as an *Electrical Engineer* for 12 weeks at Virgitron in 2023. I have a strong appreciation for the concept of creating a perfectly reliable product in this field, but after realizing the repetitive nature of engineering work, I want to pursue something that is more challenging and exciting.
