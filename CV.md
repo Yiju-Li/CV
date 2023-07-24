@@ -45,5 +45,5 @@ Digital electronics and circuits; HDL&Tools; Microcontroller/microelectronic sys
 - DS related  
 Data cleaning; Data visualization; Statistical analysis(Big Data).
 - Biology related  
-DNA-FA algorithms; DNA structure; Molecular genetics; Population genetics.
+Sequencing technologies; Gene Set Enrichment Analysis.
 
