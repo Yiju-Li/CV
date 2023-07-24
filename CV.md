@@ -18,9 +18,9 @@ Cum Laude
 
 
 ## Experience
-- Student Researcher @ Li Lab, Texas Tech University
+- Student Researcher @ Li Lab, Texas Tech University  
 2023 Summer(Current)
-- Visiting Student @ Li Lab, Florida Atlantic University
+- Visiting Student @ Li Lab, Florida Atlantic University  
 2023 Spring, 12 weeks  
 - Computer Engineer Intern @ Vigitron, San Diego, California  
 2023 Spring, 12 weeks  
