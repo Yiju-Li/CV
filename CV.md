@@ -18,13 +18,13 @@ Cum Laude
 
 
 ## Experience
-- Student Researcher @ Li Lab, Texas Tech University  
+- Student Researcher @ Li Lab(Bioinformatics and Computational Genomics Center), Texas Tech University  
 2023 Summer(Current)
-- Visiting Student @ Li Lab, Florida Atlantic University  
+- Visiting Student @ Li Lab(Bioinformatics and Computational Genomics Center), Florida Atlantic University  
 2023 Spring, 12 weeks  
 - Computer Engineer Intern @ Vigitron, San Diego, California  
 2023 Spring, 12 weeks  
-- Research Assistant Intern @ CPMG, Columbia University, New York  
+- Research Assistant Intern @ CPMG(Center for Precision Medicine and Genomics), Columbia University, New York  
 2022 Winter, 12 weeks  
 - Data Analyst Intern @ Shengmu Life, Chengdu, China  
 2022 Summer, 10 weeks  
