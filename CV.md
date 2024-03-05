@@ -2,7 +2,7 @@
 
 Contact: [yil125@ucsd.edu](mailto:yil125@ucsd.edu)
 
-*Last Updated: March 2024. For my most recent CV, please click [here](https://yijuli.info/CV.pdf).*
+*Last Updated: March 2024. For my most recent CV, please click [here](https://yiju-li.github.io/CV/CV.pdf).*
 
 ## Education
 - **University of California, San Diego** (California, USA)  
@@ -12,7 +12,7 @@ Contact: [yil125@ucsd.edu](mailto:yil125@ucsd.edu)
   - Duration: October 2020 - December 2024 (Expected)
 
 ## Areas of Interest and Skills
-- **AI-Related**: Data Engineering
+- **AI-Related**: Data Engineering and DNN-related topics
 - **Engineering-Related**: Software Development (Web and iOS, Full Stack)
 - **Biology-Related**: Molecular Biology, Genetics
 - **Math and Data Science-Related**: Data Analysis, Statistical Modeling, and Data Visualization
