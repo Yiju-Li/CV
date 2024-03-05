@@ -20,7 +20,7 @@ Minors in Biology and Data Science
 2023 Spring
 - Research Assistant Intern @ CPMG(Center for Precision Medicine and Genomics), Columbia University, New York  
 2022 Winter 
-- Software Engineer Intern @ Amazon
+- Software Engineer Intern @ Amazon  
 2022 Fall
 - Software Engineer Intern @ UBTech, Log Angeles, California  
 2021 Summer
