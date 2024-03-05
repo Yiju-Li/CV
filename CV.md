@@ -15,14 +15,14 @@ Minors in Biology and Data Science
 
 ## Experience
 - Visiting Student @ Li Lab(Bioinformatics and Computational Genomics Center), Texas Tech University  
-2023 Spring, 6 weeks  
+2023 Summer 
 - Computer Engineer Intern @ Vigitron, San Diego, California  
-2023 Spring, 12 weeks  
+2023 Spring
 - Research Assistant Intern @ CPMG(Center for Precision Medicine and Genomics), Columbia University, New York  
-2022 Winter, 12 weeks  
+2022 Winter 
 - Software Engineer Intern @ Amazon
 2022 Fall
 - Software Engineer Intern @ UBTech, Log Angeles, California  
-2021 Summer, 8 weeks  
+2021 Summer
 
 
